@@ -44,5 +44,5 @@
 !_TAG_ROLE_DESCRIPTION!R!source	source	/source loaded by source fucntion/
 abcd	README.md	/^# abcd$/;"	c
 biler	data-raw/csv/abc.R	/^biler <- read.csv("biler.csv")$/;"	g
-hello	R/hello.R	/^hello <- function() {$/;"	f
+hello	R/hello.R	/^hello <- function(x=2,y=2) {$/;"	f
 overwrite	data-raw/csv/abc.R	/^usethis::use_data(biler, overwrite = TRUE)$/;"	g
