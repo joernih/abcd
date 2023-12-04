@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+```{r}
+data(package='abcd')
+ls(package:abcd)
+abcd::hello()
+abcd::biler
+```
+
