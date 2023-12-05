@@ -1,20 +1,43 @@
 ---
 title: "abc"
+filters:
+  - webr
 ---
 
 
+```{webr-r}
+webr::install('abcd', repos = 'https://joernih.github.io/rwasm_repo/repo')
+library(abcd)
+ls(package:abcd)
+abcd::hello()
+abcd::biler
+```
+
+[REPL](https://webr.r-wasm.org/latest/)
 
 
+TEST
 
+```{webr-r}
+# Arg
+arg1 <- 'https://raw.githubusercontent.com/joernih/abcd/main/data-raw/csv/biler.csv'
+arg2 <- 'biler.csv'
+# Download a dataset
+download.file(
+arg1,
+arg2
+)
+abc <- read.csv('biler.csv')
+```
 
 
 
 
 ```{r}
-library(abcd)
-data(package='abcd')
-ls(package:abcd)
-abcd::hello()
-abcd::biler
+#library(abcd)
+#data(package='abcd')
+#ls(package:abcd)
+#abcd::hello()
+#abcd::biler
 ```
 

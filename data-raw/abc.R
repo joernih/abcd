@@ -1,5 +1,7 @@
-biler <- read.csv("biler.csv")
+biler <- read.csv("csv/biler.csv")
+elbiler <- read.csv("csv/elbiler.csv")
 usethis::use_data(biler, overwrite = TRUE)
+usethis::use_data(elbiler, overwrite = TRUE)
 head(biler)
 
 abc.R

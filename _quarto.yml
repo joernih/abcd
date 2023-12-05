@@ -3,6 +3,7 @@ project:
   output-dir: docs
   render:
     - "index.qmd"
+    - "abc.qmd"
 
 website:
   title: "."
@@ -10,7 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: abc.qmd
+        text: abc
 
 format:
   html:
