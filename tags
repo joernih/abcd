@@ -27,14 +27,16 @@
 !_TAG_KIND_DESCRIPTION!R	n,nameattr	/names attribtes in vectors, lists, or dataframes/
 !_TAG_KIND_DESCRIPTION!R	s,source	/sources/
 !_TAG_KIND_DESCRIPTION!R	v,functionVar	/function variables having values other than function()/
+!_TAG_KIND_DESCRIPTION!Yaml	a,anchor	/anchors/
 !_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
 !_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
 !_TAG_OUTPUT_VERSION	0.0	/current.age/
 !_TAG_PARSER_VERSION!Markdown	0.0	/current.age/
 !_TAG_PARSER_VERSION!R	0.0	/current.age/
+!_TAG_PARSER_VERSION!Yaml	0.0	/current.age/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
-!_TAG_PROC_CWD	/home/joernih/teaching/abcd/	//
+!_TAG_PROC_CWD	/home/joernih/numerical/abcd/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
@@ -42,6 +44,7 @@
 !_TAG_ROLE_DESCRIPTION!R!library	library	/library attached by library function/
 !_TAG_ROLE_DESCRIPTION!R!library	require	/library attached by require function/
 !_TAG_ROLE_DESCRIPTION!R!source	source	/source loaded by source fucntion/
+!_TAG_ROLE_DESCRIPTION!Yaml!anchor	alias	/alias/
 abcd	README.md	/^# abcd$/;"	c
 biler	data-raw/csv/abc.R	/^biler <- read.csv("biler.csv")$/;"	g
 hello	R/hello.R	/^hello <- function(x=2,y=2) {$/;"	f

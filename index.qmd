@@ -1,4 +1,6 @@
-
+---
+title: "abc"
+---
 
 
 
@@ -9,6 +11,7 @@
 
 
 ```{r}
+library(abcd)
 data(package='abcd')
 ls(package:abcd)
 abcd::hello()
