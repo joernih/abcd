@@ -4,40 +4,23 @@ filters:
   - webr
 ---
 
-
 ```{webr-r}
-webr::install('abcd', repos = 'https://joernih.github.io/rwasm_repo/repo')
-library(abcd)
-ls(package:abcd)
-abcd::hello()
-abcd::biler
+webr::install('dplyr', repos = 'https://github.com/joernih/TeachingWASM/repo')
 ```
 
 [REPL](https://webr.r-wasm.org/latest/)
 
-
-TEST
-
 ```{webr-r}
 # Arg
-arg1 <- 'https://raw.githubusercontent.com/joernih/abcd/main/data-raw/csv/biler.csv'
-arg2 <- 'biler.csv'
+arg1 <- 'https://raw.githubusercontent.com/joernih/TeachingWASM/main/data-raw/csv/boliger.csv'
+arg2 <- 'boliger.csv'
 # Download a dataset
 download.file(
 arg1,
 arg2
 )
-abc <- read.csv('biler.csv')
+abc <- read.csv('boliger.csv')
 ```
 
 
-
-
-```{r}
-#library(abcd)
-#data(package='abcd')
-#ls(package:abcd)
-#abcd::hello()
-#abcd::biler
-```
 

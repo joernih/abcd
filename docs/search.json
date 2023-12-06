@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "abc",
     "section": "",
-    "text": "🟡 Loading\n    webR...\n  \n    \n    \n      \n    \n  \n  \n  \n\n\nREPL\nTEST\n\n  🟡 Loading\n    webR...\n  \n    \n    \n      \n    \n  \n  \n  \n\n\n\n#library(abcd)\n#data(package='abcd')\n#ls(package:abcd)\n#abcd::hello()\n#abcd::biler"
+    "text": "🟡 Loading\n    webR...\n  \n    \n    \n      \n    \n  \n  \n  \n\n\nREPL\n\n  🟡 Loading\n    webR..."
   },
   {
     "objectID": "abc.html#welcome",
