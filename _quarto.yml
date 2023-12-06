@@ -3,16 +3,13 @@ project:
   output-dir: docs
   render:
     - "index.qmd"
-    - "abc.qmd"
 
 website:
   title: "."
   navbar:
     left:
       - href: index.qmd
-        text: Home
       - href: abc.qmd
-        text: abc
 
 format:
   html:
@@ -21,3 +18,5 @@ format:
     toc: true
 filters:
   - webr
+
+

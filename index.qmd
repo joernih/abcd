@@ -5,7 +5,13 @@ filters:
 ---
 
 ```{webr-r}
-webr::install('dplyr', repos = 'https://github.com/joernih/TeachingWASM/repo')
+webr::install("dplyr", repos = "https://joernih.github.io/TeachingWASM/repo")
+webr::install("TeachingWASM", repos = "https://joernih.github.io/TeachingWASM/repo")
+library(TeachingWASM)
+ls(package:TeachingWASM)
+TeachingWASM::hello()
+TeachingWASM::abc
+
 ```
 
 [REPL](https://webr.r-wasm.org/latest/)
@@ -20,6 +26,7 @@ arg1,
 arg2
 )
 abc <- read.csv('boliger.csv')
+abc
 ```
 
 

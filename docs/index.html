@@ -378,11 +378,11 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
- <span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./abc.html" rel="" target="">
  <span class="menu-text">abc</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./abc.qmd" rel="" target="">
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -451,7 +451,12 @@ ul.task-list li input[type="checkbox"] {
   let editor;
   require(['vs/editor/editor.main'], function () {
     editor = monaco.editor.create(editorDiv, {
-      value: `webr::install('dplyr', repos = 'https://github.com/joernih/TeachingWASM/repo')`,
+      value: `webr::install("dplyr", repos = "https://joernih.github.io/TeachingWASM/repo")
+webr::install("TeachingWASM", repos = "https://joernih.github.io/TeachingWASM/repo")
+library(TeachingWASM)
+ls(package:TeachingWASM)
+TeachingWASM::hello()
+TeachingWASM::abc`,
       language: 'r',
       theme: 'vs-light',
       automaticLayout: true,           // TODO: Could be problematic for slide decks
@@ -738,7 +743,8 @@ download.file(
 arg1,
 arg2
 )
-abc <- read.csv('boliger.csv')`,
+abc <- read.csv('boliger.csv')
+abc`,
       language: 'r',
       theme: 'vs-light',
       automaticLayout: true,           // TODO: Could be problematic for slide decks
