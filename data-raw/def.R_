@@ -5,38 +5,16 @@ library(purrr)
 library(fredr)
 library(DataEditR)
 ################################################################################################################
-## Book ## 
+# Covid
 ################################################################################################################
-biler <- read.csv("csv/biler.csv")
-elbiler <- read.csv("csv/elbiler.csv")
-usethis::use_data(biler, overwrite = TRUE)
-usethis::use_data(elbiler, overwrite = TRUE)
-head(biler)
-#abc_out.data
-#abc_out.js.metadata
-#biler.csv
-#biler.gdt
-#boliger.csv
-#boliger.gdt
-#elbiler.csv
-#elbiler.gdt
-#feriereiser.gdt
-#luftkvalitet.csv
-#luftkvalitet.gdt
-#pizza.csv
-#pizza.gdt
-#tidsserier.gdt
-#toyota.csv
-#toyota.gdt
-#vareAB.csv
-#vareAB.gdt
 ################################################################################################################
-## Fred ## 
+# Data
 ################################################################################################################
 # Testing
 api.key <- 'd62b9d8d4ce53e56ea04049dc463ac51'  # substitute ... with your API key
 fredr_set_key(api.key)
 startdate <- '2000-01-01'
+################################################################################################################
 tsquery <- list(
 mb3=c(USA=c('MABMM301USM189S'),JPN=c('MABMM301JPM189S'),EUZ=c('MABMM301EZM189S'),GBR=c('MABMM301GBM189S'),CAN=c('MABMM301CAM189S'),NOR=c('MABMM301NOM189S'),DEN='MABMM301DKM189N',SWE='MABMM301SEM189N',SKE='MABMM301KRM189S'),
 cpi=c(USA=c('CPIAUCSL'),JPN=c('JPNCPIALLMINMEI'),EUZ=c('CP0000EZ19M086NEST'),GBR=c('CPALCY01CAM661N'),CAN=c('CPALCY01CAM661N'),NOR=c('NORCPIALLMINMEI'),SWE=c('SWECPIALLMINMEI'),SKE=c('KORCPIALLMINMEI')),
@@ -68,56 +46,8 @@ all_mb2 <- do.call(rbind, unlist(outl, recursive = FALSE))
 fred_ts <- list(tsid=tsquery,tsdf=all_mb2)
 usethis::use_data(fred_ts, overwrite = TRUE)
 devtools::document()
+Hyperinflation::bm()
+
 #=c(USA=c('MABMM301USM189S'),JPN=c('MABMM301JPM189S'),EUZ=c('MABMM301EZM189S'),GBR=c('MABMM301GBM189S'),CAN=c('MABMM301CAM189S'),NOR=c('MABMM301NOM189S'),DEN='MABMM301DKM189N',SWE='MABMM301SEM189N',SKE='MABMM301KRM189S'),
 #MABMM301USM189S,MABMM301EZM189S,MABMM301NOM189S
-################################################################################################################
-## Norges Bank ## 
-nbjson <- function(fre="A",dint=c("2016-10-17","2023-10-13"),vexr=c("USD","EUR","SEK")){
-  frekh <- list("A"="year","M"="month","B"="day")[[fre]]
-  url <- paste0(
-		"https://data.norges-bank.no/api/data/EXR/"
-		,fre,
-		".",
-                paste(vexr, collapse = '+'),
-		".NOK.SP?format=sdmx-json&startPeriod="
-		,dint[1],
-		"&endPeriod=",
-		dint[2],
-		"&locale=no"
-  )
-  gjd <- httr::GET(url)
-  con <- httr::content(gjd, as = "text")
-  jda <- jsonlite::fromJSON(con)
-  lex <- sapply(c(1:length(vexr)),function(x){ 
-        t(as.numeric(as.matrix(jda$data$dataSets$series[[x]]$observations)))
-  })
-  nlexl <- as.data.frame(lex) %>% data.table::setnames(new=vexr) %>%
-	  dplyr::mutate(dato=seq.Date(as.Date(dint[1]),by=frekh,length.out=dim(lex)[1])) %>%
-          dplyr::select(dato, everything()) %>%
-          tidyr::pivot_longer(
-            cols = -dato,  
-            names_to = "rate",  
-            values_to = "value") %>% 
-	  dplyr::arrange(rate,dato) %>% dplyr::group_by(rate) %>%
-          dplyr::mutate(raten = value/value[1]) %>%
-          dplyr::mutate(percn = raten/raten[1]) %>%
-          dplyr::ungroup() 
-
-  nlexw <- tidyr::pivot_wider(nlexl,names_from=rate,values_from=c(value,raten,percn))
-  return(list(nlexw,nlexl))
-}
-nb_ts <- list(kurs=nbjson())
-usethis::use_data(nb_ts, overwrite = TRUE)
-
-
-
-
-
-
-
-
-
-
-
-
 
