@@ -5,28 +5,28 @@ filters:
 ---
 
 ```{webr-r}
-webr::install("dplyr", repos = "https://joernih.github.io/TeachingWASM/repo")
-webr::install("TeachingWASM", repos = "https://joernih.github.io/TeachingWASM/repo")
-library(TeachingWASM)
-ls(package:TeachingWASM)
-TeachingWASM::hello()
-TeachingWASM::abc
-
+#webr::install("dplyr", repos = "https://joernih.github.io/OEKA201WASMP")
+#webr::install("dplyr", repos = "https://joernih.github.io/TeachingWASM/repo")
+#webr::install("TeachingWASM", repos = "https://joernih.github.io/TeachingWASM/repo")
+#library(TeachingWASM)
+#ls(package:TeachingWASM)
+#TeachingWASM::hello()
+#TeachingWASM::abc
 ```
 
 [REPL](https://webr.r-wasm.org/latest/)
 
 ```{webr-r}
-# Arg
-arg1 <- 'https://raw.githubusercontent.com/joernih/TeachingWASM/main/data-raw/csv/boliger.csv'
-arg2 <- 'boliger.csv'
-# Download a dataset
-download.file(
-arg1,
-arg2
-)
-abc <- read.csv('boliger.csv')
-abc
+## Arg
+#arg1 <- 'https://raw.githubusercontent.com/joernih/TeachingWASM/main/data-raw/csv/boliger.csv'
+#arg2 <- 'boliger.csv'
+## Download a dataset
+#download.file(
+#arg1,
+#arg2
+#)
+#abc <- read.csv('boliger.csv')
+#abc
 ```
 
 
