@@ -87,11 +87,8 @@
 !_TAG_ROLE_DESCRIPTION!R!source	source	/source loaded by source fucntion/
 !_TAG_ROLE_DESCRIPTION!Yaml!anchor	alias	/alias/
 "A"	data-raw/datawasmcsv.R	/^  frekh <- list("A"="year","M"="month","B"="day")[[fre]]$/;"	n	list:nbjson.frekh
-"A"	data-raw/ghi.R	/^  frekh <- list("A"="year","M"="month","B"="day")[[fre]]$/;"	n	list:nbjson.frekh
 "B"	data-raw/datawasmcsv.R	/^  frekh <- list("A"="year","M"="month","B"="day")[[fre]]$/;"	n	list:nbjson.frekh
-"B"	data-raw/ghi.R	/^  frekh <- list("A"="year","M"="month","B"="day")[[fre]]$/;"	n	list:nbjson.frekh
 "M"	data-raw/datawasmcsv.R	/^  frekh <- list("A"="year","M"="month","B"="day")[[fre]]$/;"	n	list:nbjson.frekh
-"M"	data-raw/ghi.R	/^  frekh <- list("A"="year","M"="month","B"="day")[[fre]]$/;"	n	list:nbjson.frekh
 #TOC	_site/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	i
 #TOC	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-blac/;"	i
 #bslib-full-screen-overlay	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	i
@@ -10048,7 +10045,7 @@ algoliaSearch	_site/site_libs/quarto-search/quarto-search.js	/^function algoliaS
 algoliaSearch	docs/site_libs/quarto-search/quarto-search.js	/^function algoliaSearch(query, limit, algoliaOptions) {$/;"	f
 algoliaSource	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d695700.anonymousObjectf0594d695a05
 algoliaSource	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d695b00.anonymousObjectf0594d695e05
-all_mb2	data-raw/datawasmcsv.R	/^all_mb2 <- do.call(rbind, unlist(outl, recursive = FALSE)) $/;"	g
+all_mb2	data-raw/datawasmcsv.R	/^all_mb2 <- do.call(rbind, unlist(outl, recursive = FALSE))$/;"	g
 allowHTML	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject4af95ea91105
 allowHTML	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e1105
 allowList	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52ddb205
@@ -10098,12 +10095,10 @@ annEl	docs/site_libs/quarto-nav/quarto-nav.js	/^  const annEl = window.document.
 annId	docs/site_libs/quarto-nav/quarto-nav.js	/^    const annId = annEl.getAttribute("data-announcement-id");$/;"	C
 announceDismiss	docs/site_libs/quarto-nav/quarto-nav.js	/^const announceDismiss = () => {$/;"	f
 announceRegister	docs/site_libs/quarto-nav/quarto-nav.js	/^const announceRegister = () => {$/;"	f
-anonFunc5294ee1d0200	data-raw/ghi.R	/^  lex <- sapply(c(1:length(vexr)),function(x){ $/;"	f	vector:nbjson.anonVec5294ee1d0106
 anonFuncc2e7dfa30100	data-raw/datawasmcsv.R	/^outl <- lapply(olv, function(x){$/;"	f
 anonFuncc2e7dfa30200	data-raw/datawasmcsv.R	/^  lapply(ilv, function(y){$/;"	f	function:anonFuncc2e7dfa30100
-anonFuncc2e7dfa30500	data-raw/datawasmcsv.R	/^  lex <- sapply(c(1:length(vexr)),function(x){ $/;"	f	vector:nbjson.anonVecc2e7dfa30406
-anonVec5294ee1d0106	data-raw/ghi.R	/^  lex <- sapply(c(1:length(vexr)),function(x){ $/;"	c	function:nbjson
-anonVecc2e7dfa30406	data-raw/datawasmcsv.R	/^  lex <- sapply(c(1:length(vexr)),function(x){ $/;"	c	function:nbjson
+anonFuncc2e7dfa30500	data-raw/datawasmcsv.R	/^  lex <- sapply(c(1:length(vexr)),function(x){$/;"	f	vector:nbjson.anonVecc2e7dfa30406
+anonVecc2e7dfa30406	data-raw/datawasmcsv.R	/^  lex <- sapply(c(1:length(vexr)),function(x){$/;"	c	function:nbjson
 anonymousFunction067a2e730200	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t.e
 anonymousFunction067a2e730300	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f
 anonymousFunction067a2e730400	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f
@@ -12453,7 +12448,6 @@ arrow	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typ
 arrow	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3e5e05.fn.anonymousFunction9f68ba3e5f00.anonymousObject9f68ba3e6005
 article-notebook-label	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 as	data-raw/datawasmcsv.R	/^  con <- httr::content(gjd, as = "text")$/;"	v	function:nbjson
-as	data-raw/ghi.R	/^  con <- httr::content(gjd, as = "text")$/;"	v	function:nbjson
 aside	_site/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	s
 aside	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-blac/;"	s
 at	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	class:anonymousFunction3a6c52dd0200.st
@@ -12535,7 +12529,7 @@ backdrop	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==ty
 backdrop	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a205
 backdrop	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a305.anonymousObject56b5c532af05
 backdrop	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a305.anonymousObject56b5c532b005
-bai	data-raw/datawasmcsv.R	/^  bai <- fredr::fredr_series(idp)[c('title','notes')] $/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
+bai	data-raw/datawasmcsv.R	/^  bai <- fredr::fredr_series(idp)[c('title','notes')]$/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
 base-format	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.identifier
 basePlacements	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd8d05
 basePlacements	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5328f05
@@ -12551,8 +12545,6 @@ beforeRead	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==
 beforeWrite	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd8d05
 beforeWrite	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5328f05
 behavior	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532d205
-biler	data-raw/abc.R	/^biler <- read.csv("csv\/biler.csv")$/;"	g
-biler	data-raw/datawasmcsv.R	/^biler <- read.csv("csv\/biler.csv")$/;"	g
 blockquote	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 blockquote	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 blockquote ol:last-child	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -12918,8 +12910,7 @@ collections	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"o
 collections	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d6916600.anonymousObjectf0594d6916f05
 collections	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d6918d05
 collections	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.anonymousObjectf0594d6928d05
-cols	data-raw/datawasmcsv.R	/^            cols = -dato,  $/;"	v	function:nbjson
-cols	data-raw/ghi.R	/^            cols = -dato,  $/;"	v	function:nbjson
+cols	data-raw/datawasmcsv.R	/^            cols = -dato,$/;"	v	function:nbjson
 compareMajorMinorPatchVersions	_extensions/coatless/webr/webr.lua	/^function compareMajorMinorPatchVersions(v1, v2)$/;"	f
 completion	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectdd886cb411b05.anonymousObjectdd886cb411c05
 completion	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41ee00.anonymousObjectdd886cb420505
@@ -12954,7 +12945,6 @@ composed	docs/site_libs/quarto-nav/quarto-nav.js	/^  composed: false,$/;"	p	vari
 computeStyles	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd8d05
 computeStyles	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5328f05
 con	data-raw/datawasmcsv.R	/^  con <- httr::content(gjd, as = "text")$/;"	v	function:nbjson
-con	data-raw/ghi.R	/^  con <- httr::content(gjd, as = "text")$/;"	v	function:nbjson
 configurable	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	property:t.anonymousObject4a048e410e05.constructor
 configurable	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb40705
 configurable	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb411705
@@ -13229,7 +13219,6 @@ data-tippy-root	_site/site_libs/quarto-html/tippy.css	/^.tippy-box[data-animatio
 data-tippy-root	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 data-tippy-root	docs/site_libs/quarto-html/tippy.css	/^.tippy-box[data-animation=fade][data-state=hidden]{opacity:0}[data-tippy-root]{max-width:calc(10/;"	s
 dato	data-raw/datawasmcsv.R	/^	  dplyr::mutate(dato=seq.Date(as.Date(dint[1]),by=frekh,length.out=dim(lex)[1])) %>%$/;"	v	function:nbjson
-dato	data-raw/ghi.R	/^	  dplyr::mutate(dato=seq.Date(as.Date(dint[1]),by=frekh,length.out=dim(lex)[1])) %>%$/;"	v	function:nbjson
 dd	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 dd	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 de	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction3a6c52dd0200.Qt
@@ -13726,8 +13715,6 @@ effect	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeo
 effect	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	m	variable:anonymousFunction50ddf4aa0300.O.ue.anonymousObject50ddf4aa6e05
 effect	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	m	variable:anonymousObject9f68ba3e5c05
 ei	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	function:anonymousFunction56b5c5320200.P.ke
-elbiler	data-raw/abc.R	/^elbiler <- read.csv("csv\/elbiler.csv")$/;"	g
-elbiler	data-raw/datawasmcsv.R	/^elbiler <- read.csv("csv\/elbiler.csv")$/;"	g
 element	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousObject3a6c52ddc705.options
 element	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd4105
 element	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd6205
@@ -14167,7 +14154,6 @@ freeze	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"
 freeze	_site/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 freeze	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 frekh	data-raw/datawasmcsv.R	/^  frekh <- list("A"="year","M"="month","B"="day")[[fre]]$/;"	L	function:nbjson
-frekh	data-raw/ghi.R	/^  frekh <- list("A"="year","M"="month","B"="day")[[fre]]$/;"	L	function:nbjson
 from	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd0d05
 from	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd0e05
 from	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.xt._slide.anonymousObject56b5c5320e05
@@ -14311,14 +14297,13 @@ getTabSettings	docs/site_libs/quarto-html/quarto.js	/^  function getTabSettings(
 ggplot2 in webR	abc.qmd	/^## ggplot2 in webR$/;"	s
 ggplot2 in webR	docs/abc.qmd	/^## ggplot2 in webR$/;"	s
 gjd	data-raw/datawasmcsv.R	/^  gjd <- httr::GET(url)$/;"	v	function:nbjson
-gjd	data-raw/ghi.R	/^  gjd <- httr::GET(url)$/;"	v	function:nbjson
 gn	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 gn	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
 gpuAcceleration	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Qt.ue.fn.c
 gpuAcceleration	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction95d3f8f50300.x.ne.fn.c
 gpuAcceleration	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.ke.Be.fn.c
 gpuAcceleration	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction50ddf4aa0300.O.oe.fn.c
-growth	data-raw/datawasmcsv.R	/^    dplyr::mutate(growth=round(value\/lvalue-1, 6)*100) $/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
+growth	data-raw/datawasmcsv.R	/^    dplyr::mutate(growth=round(value\/lvalue-1, 6)*100)$/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
 gt	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 h	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	function:anonymousFunction3a6c52dd0200
 h	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	method:anonymousFunction3a6c52dd0200.Qt.le.fn
@@ -14991,7 +14976,6 @@ jQueryInterface	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"obje
 jQueryInterface	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction56b5c5320200.P.Y
 jQueryInterface	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction56b5c5320200.P.xt
 jda	data-raw/datawasmcsv.R	/^  jda <- jsonlite::fromJSON(con)$/;"	v	function:nbjson
-jda	data-raw/ghi.R	/^  jda <- jsonlite::fromJSON(con)$/;"	v	function:nbjson
 je	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 je	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	function:anonymousFunction56b5c5320200.P.ke
 je	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
@@ -15318,8 +15302,7 @@ legend	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts
 legend	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 legend+*	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 legend+*	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-lex	data-raw/datawasmcsv.R	/^  lex <- sapply(c(1:length(vexr)),function(x){ $/;"	v	function:nbjson
-lex	data-raw/ghi.R	/^  lex <- sapply(c(1:length(vexr)),function(x){ $/;"	v	function:nbjson
+lex	data-raw/datawasmcsv.R	/^  lex <- sapply(c(1:length(vexr)),function(x){$/;"	v	function:nbjson
 li	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousObject3a6c52ddb405.allowList
 li	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a305.anonymousObject56b5c532b805
 li code:not(.sourceCode)	_site/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
@@ -15369,7 +15352,7 @@ location	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){
 location	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a282005
 lr	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
 lt	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
-lvalue	data-raw/datawasmcsv.R	/^    dplyr::mutate(lvalue=dplyr::lag(value,n=12)) %>% $/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
+lvalue	data-raw/datawasmcsv.R	/^    dplyr::mutate(lvalue=dplyr::lag(value,n=12)) %>%$/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
 m	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	function:anonymousFunction3a6c52dd0200
 m	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	method:anonymousFunction4a048e410200.n.686
 m	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunction95d3f8f50300
@@ -15543,7 +15526,7 @@ n	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use s
 n	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject067a2e732d05.value.n
 n	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	function:anonymousFunction067a2e737d00
 n	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	method:anonymousObject067a2e732d05.value
-n	data-raw/datawasmcsv.R	/^    dplyr::mutate(lvalue=dplyr::lag(value,n=12)) %>% $/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
+n	data-raw/datawasmcsv.R	/^    dplyr::mutate(lvalue=dplyr::lag(value,n=12)) %>%$/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
 n	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction56b5c5320200.S
 n	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	function:anonymousFunction56b5c5320200
 n	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	variable:anonymousObject56b5c532df05
@@ -15663,9 +15646,7 @@ name	docs/site_libs/quarto-search/quarto-search.js	/^    { name: "section", weig
 name	docs/site_libs/quarto-search/quarto-search.js	/^    { name: "text", weight: 10 },$/;"	p	variable:kFuseIndexOptions.anonymousObjecte10aba622505
 name	docs/site_libs/quarto-search/quarto-search.js	/^    { name: "title", weight: 20 },$/;"	p	variable:kFuseIndexOptions.anonymousObjecte10aba622305
 names_from	data-raw/datawasmcsv.R	/^  nlexw <- tidyr::pivot_wider(nlexl,names_from=rate,values_from=c(value,raten,percn))$/;"	v	function:nbjson
-names_from	data-raw/ghi.R	/^  nlexw <- tidyr::pivot_wider(nlexl,names_from=rate,values_from=c(value,raten,percn))$/;"	v	function:nbjson
-names_to	data-raw/datawasmcsv.R	/^            names_to = "rate",  $/;"	v	function:nbjson
-names_to	data-raw/ghi.R	/^            names_to = "rate",  $/;"	v	function:nbjson
+names_to	data-raw/datawasmcsv.R	/^            names_to = "rate",$/;"	v	function:nbjson
 nav .dropdown-item i	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 nav .dropdown-item i	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 nav .nav-item.compact .nav-link	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
@@ -15722,8 +15703,7 @@ navigator	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"obj
 navigator	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:u.anonymousObjectf0594d691b705
 navigator	docs/site_libs/quarto-search/quarto-search.js	/^    navigator: {$/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305
 nb_ts	data-raw/datawasmcsv.R	/^nb_ts <- list(kurs=nbjson())$/;"	L
-nbjson	data-raw/datawasmcsv.R	/^nbjson <- function(fre="A",dint=c("2016-10-17","2023-10-13"),vexr=c("USD","EUR","SEK")){$/;"	f
-nbjson	data-raw/ghi.R	/^nbjson <- function(fre="A",dint=c("2016-10-17","2023-10-13"),vexr=c("USD","EUR","SEK")){$/;"	f
+nbjson	data-raw/datawasmcsv.R	/^nbjson <- function(fre="B",dint=c("2016-10-17","2024-01-01"),vexr=c("USD","EUR","SEK")){$/;"	f
 ne	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	function:anonymousFunction95d3f8f50300.x
 ne	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 ne	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	class:anonymousFunction50ddf4aa0300.O
@@ -15734,7 +15714,6 @@ nestedArrIndex	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=func
 nestedArrIndex	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunctionc1842a282f00.anonymousObjectc1842a283005
 nestedArrIndex	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a283205
 new	data-raw/datawasmcsv.R	/^  nlexl <- as.data.frame(lex) %>% data.table::setnames(new=vexr) %>%$/;"	v	function:nbjson
-new	data-raw/ghi.R	/^  nlexl <- as.data.frame(lex) %>% data.table::setnames(new=vexr) %>%$/;"	v	function:nbjson
 next	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction3a6c52dd0200.st
 next	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction56b5c5320200.P.xt
 nextActiveItemId	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb4b705
@@ -15751,9 +15730,7 @@ nexttick	_site/site_libs/quarto-html/quarto.js	/^function nexttick(func) {$/;"	f
 nexttick	docs/site_libs/quarto-html/quarto.js	/^function nexttick(func) {$/;"	f
 ni	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction56b5c5320200.P
 nlexl	data-raw/datawasmcsv.R	/^  nlexl <- as.data.frame(lex) %>% data.table::setnames(new=vexr) %>%$/;"	v	function:nbjson
-nlexl	data-raw/ghi.R	/^  nlexl <- as.data.frame(lex) %>% data.table::setnames(new=vexr) %>%$/;"	v	function:nbjson
 nlexw	data-raw/datawasmcsv.R	/^  nlexw <- tidyr::pivot_wider(nlexl,names_from=rate,values_from=c(value,raten,percn))$/;"	v	function:nbjson
-nlexw	data-raw/ghi.R	/^  nlexw <- tidyr::pivot_wider(nlexl,names_from=rate,values_from=c(value,raten,percn))$/;"	v	function:nbjson
 nn	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 noConflict	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	variable:e.fn
 noConflict	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	variable:e.fn
@@ -16092,13 +16069,8 @@ output-divs	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"tit
 output-ext	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.render
 output-file	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.pandoc
 outputTemplateFile	_extensions/coatless/webr/webr.lua	/^function outputTemplateFile()$/;"	f
-overwrite	data-raw/abc.R	/^usethis::use_data(biler, overwrite = TRUE)$/;"	g
-overwrite	data-raw/abc.R	/^usethis::use_data(elbiler, overwrite = TRUE)$/;"	g
-overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(biler, overwrite = TRUE)$/;"	g
-overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(elbiler, overwrite = TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(fred_ts, overwrite = TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(nb_ts, overwrite = TRUE)$/;"	g
-overwrite	data-raw/ghi.R	/^usethis::use_data(nbjson, overwrite = TRUE)$/;"	g
 p	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 p	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousObject3a6c52ddb405.allowList
 p	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	method:anonymousFunction4a048e410200.n.686
@@ -16206,7 +16178,6 @@ pe	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof ex
 pe	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 pe	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
 percn	data-raw/datawasmcsv.R	/^          dplyr::mutate(percn = raten\/raten[1]) %>%$/;"	v	function:nbjson
-percn	data-raw/ghi.R	/^          dplyr::mutate(percn = raten\/raten[1]) %>%$/;"	v	function:nbjson
 phase	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Ft
 phase	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Le.anonymousObject3a6c52dd4b05
 phase	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Qt.le
@@ -16663,7 +16634,6 @@ r	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use st
 r	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	function:anonymousFunctionc1842a287e00
 r	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	method:anonymousObjectc1842a282e05.value
 raten	data-raw/datawasmcsv.R	/^          dplyr::mutate(raten = value\/value[1]) %>%$/;"	v	function:nbjson
-raten	data-raw/ghi.R	/^          dplyr::mutate(raten = value\/value[1]) %>%$/;"	v	function:nbjson
 re	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction3a6c52dd0200.Qt
 re	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	function:anonymousFunction95d3f8f50300.x
 re	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
@@ -17928,7 +17898,6 @@ updateDocumentOffsetWithoutAnimation	_site/site_libs/quarto-nav/quarto-nav.js	/^
 updateDocumentOffsetWithoutAnimation	docs/site_libs/quarto-nav/quarto-nav.js	/^  function updateDocumentOffsetWithoutAnimation() {$/;"	f	function:anonymousFunction7a70b4600300
 ur	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
 url	data-raw/datawasmcsv.R	/^  url <- paste0($/;"	v	function:nbjson
-url	data-raw/ghi.R	/^  url <- paste0($/;"	v	function:nbjson
 urlify	_site/site_libs/quarto-html/anchor.min.js	/^!function(A,e){"use strict";"function"==typeof define&&define.amd?define([],e):"object"==typeof /;"	f	function:anonymousFunction6521b9ba0200
 urlify	docs/site_libs/quarto-html/anchor.min.js	/^!function(A,e){"use strict";"function"==typeof define&&define.amd?define([],e):"object"==typeof /;"	f	function:anonymousFunction202bb56f0200
 useCookie	_site/site_libs/quarto-search/quarto-search.js	/^          useCookie: true,$/;"	p	variable:anonymousObjectb356258d1b05
@@ -18130,9 +18099,7 @@ value	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"us
 valueOf	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	m	class:Boolean
 valueOf	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	m	class:Boolean
 values_from	data-raw/datawasmcsv.R	/^  nlexw <- tidyr::pivot_wider(nlexl,names_from=rate,values_from=c(value,raten,percn))$/;"	c	function:nbjson
-values_from	data-raw/ghi.R	/^  nlexw <- tidyr::pivot_wider(nlexl,names_from=rate,values_from=c(value,raten,percn))$/;"	c	function:nbjson
-values_to	data-raw/datawasmcsv.R	/^            values_to = "value") %>% $/;"	v	function:nbjson
-values_to	data-raw/ghi.R	/^            values_to = "value") %>% $/;"	v	function:nbjson
+values_to	data-raw/datawasmcsv.R	/^            values_to = "value") %>%$/;"	v	function:nbjson
 variation	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Qt.ue.fn.c
 variation	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction95d3f8f50300.x.ne.fn.c
 variation	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.ke.Be.fn.c

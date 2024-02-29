@@ -5,33 +5,35 @@ library(purrr)
 library(fredr)
 library(DataEditR)
 ################################################################################################################
-## Book ## 
+## Book ##
 ################################################################################################################
-biler <- read.csv("csv/biler.csv")
-elbiler <- read.csv("csv/elbiler.csv")
-usethis::use_data(biler, overwrite = TRUE)
-usethis::use_data(elbiler, overwrite = TRUE)
-head(biler)
-#abc_out.data
-#abc_out.js.metadata
-#biler.csv
-#biler.gdt
-#boliger.csv
-#boliger.gdt
-#elbiler.csv
-#elbiler.gdt
-#feriereiser.gdt
-#luftkvalitet.csv
-#luftkvalitet.gdt
-#pizza.csv
-#pizza.gdt
-#tidsserier.gdt
-#toyota.csv
-#toyota.gdt
-#vareAB.csv
-#vareAB.gdt
+# csvbabc <- c("elbiler.csv", "luftkvalitet.csv", "pizza.csv", "toyota.csv", "boliger.csv", "elbiler.gdt", "luftkvalitet.gdt", "pizza.gdt", "toyota.gdt", "biler.csv", "boliger.gdt ", "feriereiser.gdt", "luftkvalitet.gdt~", "tidsserier.gdt", "vareAB.csv")
+# biler <- read.csv("csv/biler.csv")
+# elbiler <- read.csv("csv/elbiler.csv")
+# usethis::use_data(biler, overwrite = TRUE)
+# usethis::use_data(elbiler, overwrite = TRUE)
+# head(biler)
+# #abc_out.data
+# #abc_out.js.metadata
+# #biler.csv
+# #biler.gdt
+# #boliger.csv
+# #boliger.gdt
+# #elbiler.csv
+# #elbiler.gdt
+# #feriereiser.gdt
+# #luftkvalitet.csv
+# #luftkvalitet.gdt
+# #pizza.csv
+# #pizza.gdt
+# #tidsserier.gdt
+# #toyota.csv
+# #toyota.gdt
+# #vareAB.csv
+# #vareAB.gdt
+# usethis::use_data(bjki_ts, overwrite = TRUE)
 ################################################################################################################
-## Fred ## 
+## Fred ##
 ################################################################################################################
 # Testing
 api.key <- 'd62b9d8d4ce53e56ea04049dc463ac51'  # substitute ... with your API key
@@ -55,24 +57,23 @@ outl <- lapply(olv, function(x){
   idp <- tsquery[[x]][[y]]
   # Make own function
   print(idp)
-  bai <- fredr::fredr_series(idp)[c('title','notes')] 
+  bai <- fredr::fredr_series(idp)[c('title','notes')]
   dfo <- fredr::fredr_series_observations(idp) %>%
 	  base::cbind(bai) %>%
     dplyr::mutate(country=cna,id=sna) %>%
     dplyr::filter(date>startdate) %>%
-    dplyr::mutate(lvalue=dplyr::lag(value,n=12)) %>% 
-    dplyr::mutate(growth=round(value/lvalue-1, 6)*100) 
+    dplyr::mutate(lvalue=dplyr::lag(value,n=12)) %>%
+    dplyr::mutate(growth=round(value/lvalue-1, 6)*100)
   })
 })
-all_mb2 <- do.call(rbind, unlist(outl, recursive = FALSE)) 
+all_mb2 <- do.call(rbind, unlist(outl, recursive = FALSE))
 fred_ts <- list(tsid=tsquery,tsdf=all_mb2)
 usethis::use_data(fred_ts, overwrite = TRUE)
-devtools::document()
 #=c(USA=c('MABMM301USM189S'),JPN=c('MABMM301JPM189S'),EUZ=c('MABMM301EZM189S'),GBR=c('MABMM301GBM189S'),CAN=c('MABMM301CAM189S'),NOR=c('MABMM301NOM189S'),DEN='MABMM301DKM189N',SWE='MABMM301SEM189N',SKE='MABMM301KRM189S'),
 #MABMM301USM189S,MABMM301EZM189S,MABMM301NOM189S
 ################################################################################################################
-## Norges Bank ## 
-nbjson <- function(fre="A",dint=c("2016-10-17","2023-10-13"),vexr=c("USD","EUR","SEK")){
+## Norges Bank ##
+nbjson <- function(fre="B",dint=c("2016-10-17","2024-01-01"),vexr=c("USD","EUR","SEK")){
   frekh <- list("A"="year","M"="month","B"="day")[[fre]]
   url <- paste0(
 		"https://data.norges-bank.no/api/data/EXR/"
@@ -88,36 +89,24 @@ nbjson <- function(fre="A",dint=c("2016-10-17","2023-10-13"),vexr=c("USD","EUR",
   gjd <- httr::GET(url)
   con <- httr::content(gjd, as = "text")
   jda <- jsonlite::fromJSON(con)
-  lex <- sapply(c(1:length(vexr)),function(x){ 
+  lex <- sapply(c(1:length(vexr)),function(x){
         t(as.numeric(as.matrix(jda$data$dataSets$series[[x]]$observations)))
   })
   nlexl <- as.data.frame(lex) %>% data.table::setnames(new=vexr) %>%
 	  dplyr::mutate(dato=seq.Date(as.Date(dint[1]),by=frekh,length.out=dim(lex)[1])) %>%
           dplyr::select(dato, everything()) %>%
           tidyr::pivot_longer(
-            cols = -dato,  
-            names_to = "rate",  
-            values_to = "value") %>% 
+            cols = -dato,
+            names_to = "rate",
+            values_to = "value") %>%
 	  dplyr::arrange(rate,dato) %>% dplyr::group_by(rate) %>%
           dplyr::mutate(raten = value/value[1]) %>%
           dplyr::mutate(percn = raten/raten[1]) %>%
-          dplyr::ungroup() 
+          dplyr::ungroup()
 
   nlexw <- tidyr::pivot_wider(nlexl,names_from=rate,values_from=c(value,raten,percn))
   return(list(nlexw,nlexl))
 }
 nb_ts <- list(kurs=nbjson())
 usethis::use_data(nb_ts, overwrite = TRUE)
-
-
-
-
-
-
-
-
-
-
-
-
 
