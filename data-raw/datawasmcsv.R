@@ -4,34 +4,22 @@ library(ggplot2)
 library(purrr)
 library(fredr)
 library(DataEditR)
+library(gretlR)
+usedvw <- gretlReadWrite::read.gdt("gdt/usedvw.gdt")
+newcars <- gretlReadWrite::read.gdt("gdt/newcars.gdt")
+usethis::use_data(usedvw, overwrite = TRUE)
+usethis::use_data(newcars, overwrite = TRUE)
 ################################################################################################################
 ## Book ##
 ################################################################################################################
-# csvbabc <- c("elbiler.csv", "luftkvalitet.csv", "pizza.csv", "toyota.csv", "boliger.csv", "elbiler.gdt", "luftkvalitet.gdt", "pizza.gdt", "toyota.gdt", "biler.csv", "boliger.gdt ", "feriereiser.gdt", "luftkvalitet.gdt~", "tidsserier.gdt", "vareAB.csv")
-# biler <- read.csv("csv/biler.csv")
-# elbiler <- read.csv("csv/elbiler.csv")
-# usethis::use_data(biler, overwrite = TRUE)
-# usethis::use_data(elbiler, overwrite = TRUE)
-# head(biler)
-# #abc_out.data
-# #abc_out.js.metadata
-# #biler.csv
-# #biler.gdt
-# #boliger.csv
-# #boliger.gdt
-# #elbiler.csv
-# #elbiler.gdt
-# #feriereiser.gdt
-# #luftkvalitet.csv
-# #luftkvalitet.gdt
-# #pizza.csv
-# #pizza.gdt
-# #tidsserier.gdt
-# #toyota.csv
-# #toyota.gdt
-# #vareAB.csv
-# #vareAB.gdt
+csvabc <- c("abc_out.data", "biler.gdt", "elbiler.csv", "luftkvalitet.csv", "pizza.csv", "toyota.csv", "vareAB.gdt", "abc_out.
+js.metadata", "boliger.csv", "elbiler.gdt", "luftkvalitet.gdt", "pizza.gdt", "toyota.gdt", "biler.csv", "boliger.gdt
+", "feriereiser.gdt", "luftkvalitet.gdt~", "tidsserier.gdt", "vareAB.csv")
+
+abc <- read.csv(paste0("csv/",csvabc[4]))
+usethis::use_data(abc, overwrite = TRUE)
 # usethis::use_data(bjki_ts, overwrite = TRUE)
+open_gdt(fpath, mkstruct = TRUE, info = TRUE)
 ################################################################################################################
 ## Fred ##
 ################################################################################################################

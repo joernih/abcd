@@ -8,9 +8,13 @@
 !_TAG_FIELD_DESCRIPTION	name	/tag name/
 !_TAG_FIELD_DESCRIPTION	pattern	/pattern/
 !_TAG_FIELD_DESCRIPTION	typeref	/Type and name of a variable or typedef/
+!_TAG_FIELD_DESCRIPTION!Python	nameref	/the original name for the tag/
 !_TAG_FIELD_DESCRIPTION!R	constructor	/function used for making value assigned to the nameattr tag/
 !_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
 !_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_KIND_DESCRIPTION!Abaqus	a,assembly	/Assembly/
+!_TAG_KIND_DESCRIPTION!Abaqus	p,part	/Parts/
+!_TAG_KIND_DESCRIPTION!Abaqus	s,step	/Steps/
 !_TAG_KIND_DESCRIPTION!CSS	c,class	/classes/
 !_TAG_KIND_DESCRIPTION!CSS	i,id	/identities/
 !_TAG_KIND_DESCRIPTION!CSS	s,selector	/selectors/
@@ -48,6 +52,13 @@
 !_TAG_KIND_DESCRIPTION!Markdown	s,section	/sections/
 !_TAG_KIND_DESCRIPTION!Markdown	t,subsubsection	/level 3 sections/
 !_TAG_KIND_DESCRIPTION!Markdown	u,l5subsection	/level 5 sections/
+!_TAG_KIND_DESCRIPTION!Python	I,namespace	/name referring a module defined in other file/
+!_TAG_KIND_DESCRIPTION!Python	Y,unknown	/name referring a class\/variable\/function\/module defined in other module/
+!_TAG_KIND_DESCRIPTION!Python	c,class	/classes/
+!_TAG_KIND_DESCRIPTION!Python	f,function	/functions/
+!_TAG_KIND_DESCRIPTION!Python	i,module	/modules/
+!_TAG_KIND_DESCRIPTION!Python	m,member	/class members/
+!_TAG_KIND_DESCRIPTION!Python	v,variable	/variables/
 !_TAG_KIND_DESCRIPTION!Quarto	l,chunklabel	/chunk labels/
 !_TAG_KIND_DESCRIPTION!R	L,list	/lists explicitly created with `list()'/
 !_TAG_KIND_DESCRIPTION!R	c,vector	/vectors explicitly created with `c()'/
@@ -63,12 +74,14 @@
 !_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
 !_TAG_OUTPUT_VERSION	0.0	/current.age/
+!_TAG_PARSER_VERSION!Abaqus	0.0	/current.age/
 !_TAG_PARSER_VERSION!CSS	0.0	/current.age/
 !_TAG_PARSER_VERSION!HTML	0.0	/current.age/
 !_TAG_PARSER_VERSION!JSON	0.0	/current.age/
 !_TAG_PARSER_VERSION!JavaScript	1.1	/current.age/
 !_TAG_PARSER_VERSION!Lua	0.0	/current.age/
 !_TAG_PARSER_VERSION!Markdown	1.1	/current.age/
+!_TAG_PARSER_VERSION!Python	0.0	/current.age/
 !_TAG_PARSER_VERSION!Quarto	0.0	/current.age/
 !_TAG_PARSER_VERSION!R	0.0	/current.age/
 !_TAG_PARSER_VERSION!Yaml	0.0	/current.age/
@@ -82,6 +95,11 @@
 !_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
 !_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
 !_TAG_ROLE_DESCRIPTION!JavaScript!function	foreigndecl	/declared in foreign languages/
+!_TAG_ROLE_DESCRIPTION!Python!module	imported	/imported modules/
+!_TAG_ROLE_DESCRIPTION!Python!module	indirectlyImported	/module imported in alternative name/
+!_TAG_ROLE_DESCRIPTION!Python!module	namespace	/namespace from where classes\/variables\/functions are imported/
+!_TAG_ROLE_DESCRIPTION!Python!unknown	imported	/imported from the other module/
+!_TAG_ROLE_DESCRIPTION!Python!unknown	indirectlyImported	/classes\/variables\/functions\/modules imported in alternative name/
 !_TAG_ROLE_DESCRIPTION!R!library	library	/library attached by library function/
 !_TAG_ROLE_DESCRIPTION!R!library	require	/library attached by require function/
 !_TAG_ROLE_DESCRIPTION!R!source	source	/source loaded by source fucntion/
@@ -9973,6 +9991,7 @@ abbr[data-bs-original-title]	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@
 abbr[title]	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 abbr[title]	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 abc	_site/index.html	/^<h1 class="title">abc<\/h1>$/;"	h
+abc	data-raw/datawasmcsv.R	/^abc <- read.csv(paste0("csv\/",csvabc[4]))$/;"	g
 abc	docs/index.html	/^<h1 class="title">abc<\/h1>$/;"	h
 abcd	README.md	/^# abcd$/;"	c
 action	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction4a048e410200.n.686.b.anonymousObject4a048e411705.value.anonymousObject4a048e411805
@@ -13127,6 +13146,7 @@ crossref-sec-prefix	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yam
 crossref-tbl-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 crossref-thm-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 css	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a	object:formats.html.pandoc
+csvabc	data-raw/datawasmcsv.R	/^csvabc <- c("abc_out.data", "biler.gdt", "elbiler.csv", "luftkvalitet.csv", "pizza.csv", "toyota/;"	c
 ct	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 ct	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
 ctx	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousObject4a048e413405
@@ -13184,6 +13204,7 @@ data	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof
 data	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction95d3f8f50300.x.Z
 data	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction95d3f8f50300.x.ce.anonymousObject95d3f8f55f05
 data	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction95d3f8f50300.x.ne
+data	data-raw/abc.py	/^data = pd.read_csv('pizza.gdt', sep='\\s+')$/;"	v
 data	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.ke.Be
 data	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.ke.Re
 data	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.ni.anonymousObject56b5c5324d05
@@ -15714,6 +15735,7 @@ nestedArrIndex	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=func
 nestedArrIndex	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunctionc1842a282f00.anonymousObjectc1842a283005
 nestedArrIndex	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a283205
 new	data-raw/datawasmcsv.R	/^  nlexl <- as.data.frame(lex) %>% data.table::setnames(new=vexr) %>%$/;"	v	function:nbjson
+newcars	data-raw/datawasmcsv.R	/^newcars <- gretlReadWrite::read.gdt("gdt\/newcars.gdt")$/;"	g
 next	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction3a6c52dd0200.st
 next	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction56b5c5320200.P.xt
 nextActiveItemId	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb4b705
@@ -16069,8 +16091,11 @@ output-divs	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"tit
 output-ext	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.render
 output-file	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.pandoc
 outputTemplateFile	_extensions/coatless/webr/webr.lua	/^function outputTemplateFile()$/;"	f
+overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(abc, overwrite = TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(fred_ts, overwrite = TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(nb_ts, overwrite = TRUE)$/;"	g
+overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(newcars, overwrite = TRUE)$/;"	g
+overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(usedvw, overwrite = TRUE)$/;"	g
 p	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 p	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousObject3a6c52ddb405.allowList
 p	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	method:anonymousFunction4a048e410200.n.686
@@ -16171,6 +16196,7 @@ pause	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeo
 pause	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.Ot
 payload	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb40300.R.anonymousFunctiondd886cb43900.anonymousObjectdd886cb43d05
 payload	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300.se.anonymousFunctionf0594d699700.anonymousObjectf0594d699b05
+pd	data-raw/abc.py	/^import pandas as pd$/;"	I	nameref:module:pandas
 pe	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	class:anonymousFunction3a6c52dd0200.Qt
 pe	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 pe	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction56b5c5320200.P
@@ -17904,6 +17930,7 @@ useCookie	_site/site_libs/quarto-search/quarto-search.js	/^          useCookie: 
 useCookie	docs/site_libs/quarto-search/quarto-search.js	/^          useCookie: true,$/;"	p	variable:anonymousObjecte10aba621d05
 useExtendedSearch	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject067a2e731b05
 useExtendedSearch	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a281b05
+usedvw	data-raw/datawasmcsv.R	/^usedvw <- gretlReadWrite::read.gdt("gdt\/usedvw.gdt")$/;"	g
 userAgents	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41e100.anonymousObjectdd886cb41ec05
 userAgents	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41ee00.anonymousFunctiondd886cb41ff00.anonymousObjectdd886cb420405
 userAgents	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.anonymousFunctionf0594d6928700.anonymousObjectf0594d6928c05
