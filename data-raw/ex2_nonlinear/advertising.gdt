@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="advertising" frequency="1" startobs="1" endobs="21" type="cross-section">
+<description>
+Table 1.5
+
+Impact of Advertising Expenditure
+
+Source: http://lib.stat.cmu.edu/DASL/Datafiles/tvadsdat.html
+</description>
+<variables count="2">
+<variable name="impress"
+ label="Impressions (millions)"
+/>
+<variable name="adexp"
+ label="Expenditure, millions of 1983 dollars"
+/>
+</variables>
+<observations count="21" labels="false">
+<obs>32.1 50.1 </obs>
+<obs>99.6 74.1 </obs>
+<obs>11.7 19.3 </obs>
+<obs>21.9 22.9 </obs>
+<obs>60.8 82.4 </obs>
+<obs>78.6 40.1 </obs>
+<obs>92.4 185.9 </obs>
+<obs>50.7 26.9 </obs>
+<obs>21.4 20.4 </obs>
+<obs>40.1 166.2 </obs>
+<obs>40.8 27 </obs>
+<obs>10.4 45.6 </obs>
+<obs>88.9 154.9 </obs>
+<obs>12 5 </obs>
+<obs>29.2 49.7 </obs>
+<obs>38 26.9 </obs>
+<obs>10 5.7 </obs>
+<obs>12.3 7.6 </obs>
+<obs>23.4 9.2 </obs>
+<obs>71.1 32.4 </obs>
+<obs>4.4 6.1 </obs>
+</observations>
+</gretldata>

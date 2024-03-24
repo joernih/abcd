@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="HousePrice" frequency="1" startobs="1" endobs="29" type="cross-section">
+<description>Data imported from CSV file 'cliptmp.txt', 2024-02-02 16:08
+</description>
+<variables count="7">
+<variable name="price"
+ label="House sale price in dollars"
+/>
+<variable name="size"
+ label="House size in square feet"
+/>
+<variable name="bedrooms"
+ label="Number of bedrooms"
+/>
+<variable name="bathrooms"
+ label="Number of Bathrooms"
+/>
+<variable name="lotsize"
+ label="Size of lot: 1 &gt; 2 &gt; 3"
+/>
+<variable name="age"
+ label="House Age in Years"
+/>
+<variable name="monthsold"
+ label="Month of year house was sold"
+/>
+</variables>
+<observations count="29" labels="false">
+<obs>204000 1400 3 2 1 31 7 </obs>
+<obs>212000 1600 3 3 2 33 5 </obs>
+<obs>213000 1800 3 2 2 51 4 </obs>
+<obs>220000 1600 3 2 1 49 4 </obs>
+<obs>224500 2100 4 2.5 2 47 6 </obs>
+<obs>229000 1700 4 2.5 2 35 3 </obs>
+<obs>230000 2100 4 2 2 34 8 </obs>
+<obs>233000 1700 3 2 1 40 6 </obs>
+<obs>235000 1700 4 2 2 29 7 </obs>
+<obs>235000 1600 3 2 3 35 5 </obs>
+<obs>236500 1600 3 2 3 23 8 </obs>
+<obs>238000 1900 4 2 2 29 7 </obs>
+<obs>239500 1600 3 2 3 34 6 </obs>
+<obs>241000 1600 4 2 2 34 8 </obs>
+<obs>244000 2000 4 2 1 29 7 </obs>
+<obs>245000 1400 4 2 2 30 8 </obs>
+<obs>249000 1900 4 3 3 37 6 </obs>
+<obs>253000 2100 4 2 3 47 6 </obs>
+<obs>255000 1500 4 2 3 47 7 </obs>
+<obs>258500 1600 3 2 1 39 8 </obs>
+<obs>270000 1800 4 2 3 31 3 </obs>
+<obs>270000 2000 4 2.5 3 39 5 </obs>
+<obs>272000 1800 4 2.5 2 46 3 </obs>
+<obs>273000 1900 5 2 2 37 7 </obs>
+<obs>278500 2600 6 2 3 38 8 </obs>
+<obs>279900 2000 4 2 2 31 7 </obs>
+<obs>310000 2300 4 2.5 2 28 5 </obs>
+<obs>340000 2400 4 3 2 34 6 </obs>
+<obs>375000 3300 4 2.5 2 39 3 </obs>
+</observations>
+</gretldata>

@@ -1,4 +1,15 @@
-################################################################################################################
+usedvw <- gretlReadWrite::read.gdt("gdt/usedvw.gdt")
+newcars <- gretlReadWrite::read.gdt("gdt/newcars.gdt")
+#icecream <- gretlReadWrite::read.gdt("ex1_linear/icecream.gdt")
+icecream <- read.csv("ex1_linear/icecream.gdt", row.names = NULL)
+adverticing <- gretlReadWrite::read.gdt("ex2_nonlinear/advertising.gdt")
+tssales <- gretlReadWrite::read.gdt("ex3_timeseries/TSsales1.gdt")
+usethis::use_data(usedvw,overwrite=TRUE)
+usethis::use_data(newcars,overwrite=TRUE)
+usethis::use_data(icecream,overwrite=TRUE)
+usethis::use_data(adverticing,overwrite=TRUE)
+usethis::use_data(tssales,overwrite=TRUE)
+###############################################################################################################
 library(Hyperinflation)
 library(ggplot2)
 library(purrr)

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="housing1" frequency="1" startobs="1" endobs="6" type="cross-section">
+<variables count="2">
+<variable name="Y"
+/>
+<variable name="X"
+/>
+</variables>
+<observations count="6" labels="false">
+<obs>100 110 </obs>
+<obs>300 180 </obs>
+<obs>200 120 </obs>
+<obs>150 75 </obs>
+<obs>250 90 </obs>
+<obs>350 175 </obs>
+</observations>
+</gretldata>

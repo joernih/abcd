@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="TSsales1" frequency="1" startobs="2001" endobs="2006" type="time-series">
+<variables count="11">
+<variable name="sales"
+/>
+<variable name="price"
+/>
+<variable name="time"
+ label="time trend variable"
+/>
+<variable name="d_sales"
+ label="= first difference of sales"
+ parent="sales"
+ transform="diff"
+/>
+<variable name="d_price"
+ label="= first difference of price"
+ parent="price"
+ transform="diff"
+/>
+<variable name="pc_sales"
+ label="100*(sales/sales(-1)-1)"
+/>
+<variable name="pc_price"
+ label="100*(price/price(-1)-1)"
+/>
+<variable name="sales_1"
+ label="= sales(t - 1)"
+ parent="sales"
+ transform="lags"
+ lag="1"
+/>
+<variable name="sales_2"
+ label="= sales(t - 2)"
+ parent="sales"
+ transform="lags"
+ lag="2"
+/>
+<variable name="price_1"
+ label="= price(t - 1)"
+ parent="price"
+ transform="lags"
+ lag="1"
+/>
+<variable name="price_2"
+ label="= price(t - 2)"
+ parent="price"
+ transform="lags"
+ lag="2"
+/>
+</variables>
+<observations count="6" labels="false">
+<obs>4000 70 1 NA NA NA NA NA NA NA NA </obs>
+<obs>5500 68 2 1500 -2 37.5 -2.8571428571428581 4000 NA 70 NA </obs>
+<obs>5000 79 3 -500 11 -9.0909090909090935 16.176470588235304 5500 4000 68 70 </obs>
+<obs>6000 85 4 1000 6 19.999999999999996 7.5949367088607556 5000 5500 79 68 </obs>
+<obs>7000 91 5 1000 6 16.666666666666675 7.0588235294117618 6000 5000 85 79 </obs>
+<obs>7500 89 6 500 -2 7.1428571428571397 -2.1978021978022011 7000 6000 91 85 </obs>
+</observations>
+</gretldata>

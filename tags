@@ -10047,6 +10047,7 @@ addParam	_site/site_libs/quarto-search/quarto-search.js	/^    const addParam = (
 addParam	docs/site_libs/quarto-search/quarto-search.js	/^    const addParam = (url, name, value) => {$/;"	f	function:fuseSearch
 address	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 address	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
+adverticing	data-raw/datawasmcsv.R	/^adverticing <- gretlReadWrite::read.gdt("ex2_nonlinear\/advertising.gdt")$/;"	g
 ae	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction3a6c52dd0200.Qt
 ae	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunction95d3f8f50300.x
 ae	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
@@ -12572,6 +12573,7 @@ blockquote p:last-child	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@impor
 blockquote p:last-child	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 blockquote ul:last-child	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 blockquote ul:last-child	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
+bm	R/hello.R	/^bm <- function(){$/;"	f
 bn	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 bn	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn
 body	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -14555,6 +14557,7 @@ i	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use st
 i	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a282d05.value.n
 i	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a282e05.value.r
 i	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	method:anonymousFunctionc1842a283600.anonymousObjectc1842a283a05.value
+icecream	data-raw/datawasmcsv.R	/^icecream <- read.csv("ex1_linear\/icecream.gdt", row.names = NULL)$/;"	g
 id	_site/site_libs/quarto-html/quarto.js	/^      id: "quarto-lefttoc-toggle",$/;"	p	variable:anonymousFunction450571c90400.anonymousObject450571c90905
 id	_site/site_libs/quarto-html/quarto.js	/^    id: "quarto-sidebarnav-toggle",$/;"	p	variable:anonymousFunction450571c90400.anonymousObject450571c90805
 id	_site/site_libs/quarto-html/quarto.js	/^    id: "quarto-toc-toggle",$/;"	p	variable:anonymousFunction450571c90400.anonymousObject450571c90705
@@ -16092,10 +16095,15 @@ output-ext	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"titl
 output-file	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.pandoc
 outputTemplateFile	_extensions/coatless/webr/webr.lua	/^function outputTemplateFile()$/;"	f
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(abc, overwrite = TRUE)$/;"	g
+overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(adverticing,overwrite=TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(fred_ts, overwrite = TRUE)$/;"	g
+overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(icecream,overwrite=TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(nb_ts, overwrite = TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(newcars, overwrite = TRUE)$/;"	g
+overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(newcars,overwrite=TRUE)$/;"	g
+overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(tssales,overwrite=TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(usedvw, overwrite = TRUE)$/;"	g
+overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(usedvw,overwrite=TRUE)$/;"	g
 p	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 p	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousObject3a6c52ddb405.allowList
 p	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	method:anonymousFunction4a048e410200.n.686
@@ -17810,6 +17818,7 @@ true	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.go
 tsdf	data-raw/datawasmcsv.R	/^fred_ts <- list(tsid=tsquery,tsdf=all_mb2)$/;"	n	list:fred_ts
 tsid	data-raw/datawasmcsv.R	/^fred_ts <- list(tsid=tsquery,tsdf=all_mb2)$/;"	n	list:fred_ts
 tsquery	data-raw/datawasmcsv.R	/^tsquery <- list($/;"	L
+tssales	data-raw/datawasmcsv.R	/^tssales <- gretlReadWrite::read.gdt("ex3_timeseries\/TSsales1.gdt")$/;"	g
 tt	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	function:anonymousFunction3a6c52dd0200
 tt	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 type	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
