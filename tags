@@ -9516,6 +9516,7 @@ Help Documentation	docs/abc.qmd	/^## Help Documentation$/;"	s
 Highlight	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41ee00.anonymousFunctiondd886cb41f400.anonymousFunctiondd886cb41f500.E
 Highlight	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.anonymousFunctionf0594d6927c00.anonymousFunctionf0594d6927d00.A
 Hn	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	function:yn.bn
+HousePrice	data-raw/datawasmcsv.R	/^HousePrice <- gretlReadWrite::read.gdt("ex1_linear\/HousePrice.gdt")$/;"	g
 Ht	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	class:anonymousFunction56b5c5320200.P
 Ht	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 I	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c	function:anonymousFunction3a6c52dd0200
@@ -16094,6 +16095,7 @@ output-divs	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"tit
 output-ext	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.render
 output-file	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.pandoc
 outputTemplateFile	_extensions/coatless/webr/webr.lua	/^function outputTemplateFile()$/;"	f
+overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(HousePrice,overwrite=TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(abc, overwrite = TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(adverticing,overwrite=TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(fred_ts, overwrite = TRUE)$/;"	g
