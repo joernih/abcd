@@ -86,7 +86,7 @@
 !_TAG_PARSER_VERSION!R	0.0	/current.age/
 !_TAG_PARSER_VERSION!Yaml	0.0	/current.age/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
-!_TAG_PROC_CWD	/home/joernih/teaching/OEKA201WASMP/	//
+!_TAG_PROC_CWD	/home/joernih/homepageJIH/WASM/WASMP/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
@@ -9271,10 +9271,6 @@ $t	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==
 .zindex-modal	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-blac/;"	c
 .zindex-over-content	_site/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
 .zindex-over-content	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-blac/;"	c
-0	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	array:formats.html.pandoc.css
-0	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	array:formats.html.pandoc.filters
-0	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	array:markdown.yaml.filters
-0	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	array:projectFormats
 0	_site/search.json	/^  {$/;"	o
 0	docs/search.json	/^  {$/;"	o
 686	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	variable:anonymousFunction4a048e410200.n
@@ -12426,8 +12422,6 @@ appId	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"
 appId	docs/site_libs/quarto-search/quarto-search.js	/^          appId,$/;"	p	variable:anonymousObjecte10aba621d05
 appendTo	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject4af95ea90f05
 appendTo	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e0f05
-appendix-attribution-bibtex	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-appendix-attribution-cite-as	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 applyStyles	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd8d05
 applyStyles	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5328f05
 ar	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
@@ -12467,7 +12461,6 @@ arrow	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof
 arrow	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e1105
 arrow	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3e5c05.effect.n
 arrow	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3e5e05.fn.anonymousFunction9f68ba3e5f00.anonymousObject9f68ba3e6005
-article-notebook-label	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 as	data-raw/datawasmcsv.R	/^  con <- httr::content(gjd, as = "text")$/;"	v	function:nbjson
 aside	_site/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	s
 aside	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-blac/;"	s
@@ -12541,7 +12534,6 @@ b	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof 
 b	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
 b	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:anonymousFunctionc1842a283600.e
 b	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t.k
-back-to-top	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 backdrop	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dda005
 backdrop	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dda105
 backdrop	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dda905
@@ -12551,7 +12543,6 @@ backdrop	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==ty
 backdrop	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a305.anonymousObject56b5c532af05
 backdrop	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a305.anonymousObject56b5c532b005
 bai	data-raw/datawasmcsv.R	/^  bai <- fredr::fredr_series(idp)[c('title','notes')]$/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
-base-format	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.identifier
 basePlacements	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd8d05
 basePlacements	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5328f05
 be	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction3a6c52dd0200.Qt
@@ -12588,7 +12579,6 @@ body.floating .sidebar.sidebar-navigation	docs/site_libs/bootstrap/bootstrap.min
 body.hypothesis-enabled #quarto-header	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	i
 body.nav-fixed	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 body.nav-fixed	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
-book	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:formats.html.extensions
 bottom	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 bottom	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:T
 bottom	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Qt.he
@@ -12690,12 +12680,6 @@ c	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof ex
 c	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
 c	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t
 c	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	function:anonymousFunctionc1842a282f00
-cache	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	z	object:formats.html.execute
-callout-caution-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-callout-important-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-callout-note-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-callout-tip-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-callout-warning-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 cancelAll	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	m	variable:anonymousFunctiondd886cb40300.R.anonymousObjectdd886cb43f05
 cancelAll	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	m	variable:anonymousFunctionf0594d690300.se.anonymousObjectf0594d699d05
 cancelable	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.j.trigger.anonymousObject3a6c52dd0605
@@ -12894,20 +12878,6 @@ code span.vs	_site/site_libs/quarto-html/quarto-syntax-highlighting.css	/^code s
 code span.vs	docs/site_libs/quarto-html/quarto-syntax-highlighting.css	/^code span.vs {$/;"	c
 code span.wa	_site/site_libs/quarto-html/quarto-syntax-highlighting.css	/^code span.wa {$/;"	c
 code span.wa	docs/site_libs/quarto-html/quarto-syntax-highlighting.css	/^code span.wa {$/;"	c
-code-fold	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.render
-code-line	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-code-line-numbers	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-code-lines	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-code-link	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-code-links-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-code-overflow	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.render
-code-summary	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-code-tools	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-code-tools-hide-all-code	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-code-tools-menu-caption	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-code-tools-show-all-code	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-code-tools-source-code	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-code-tools-view-source	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 code.sourceCode	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 code.sourceCode	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 code.sourceCode .code-annotation-anchor	_site/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
@@ -13062,7 +13032,6 @@ container	docs/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==t
 container	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.D.t
 container	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.E.anonymousObjectf0594d6929105.anonymousObjectf0594d6929205
 container	docs/site_libs/quarto-search/quarto-search.js	/^    container: searchEl,$/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305
-containsRefs	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:markdown
 content	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dddb05
 content	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dddc05
 content	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:A.anonymousObject4af95ea90f05.aria
@@ -13091,8 +13060,6 @@ convertToMenu	_site/site_libs/quarto-html/quarto.js	/^        const convertToMen
 convertToMenu	docs/site_libs/quarto-html/quarto.js	/^        const convertToMenu = () => {$/;"	f	function:anonymousFunctiona143dafe0200
 convertToSidebar	_site/site_libs/quarto-html/quarto.js	/^        const convertToSidebar = () => {$/;"	f	function:anonymousFunction450571c90400
 convertToSidebar	docs/site_libs/quarto-html/quarto.js	/^        const convertToSidebar = () => {$/;"	f	function:anonymousFunctiona143dafe0200
-copy-button-tooltip	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-copy-button-tooltip-success	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 country	data-raw/datawasmcsv.R	/^    dplyr::mutate(country=cna,id=sna) %>%$/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
 cpi	data-raw/datawasmcsv.R	/^cpi=c(USA=c('CPIAUCSL'),JPN=c('JPNCPIALLMINMEI'),EUZ=c('CP0000EZ19M086NEST'),GBR=c('CPALCY01CAM6/;"	n	list:tsquery	constructor:c
 cr	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
@@ -13130,25 +13097,6 @@ createSection	_site/site_libs/quarto-search/quarto-search.js	/^function createSe
 createSection	docs/site_libs/quarto-search/quarto-search.js	/^function createSection(createElement, title, text, href) {$/;"	f
 createSectionCard	_site/site_libs/quarto-search/quarto-search.js	/^function createSectionCard(createElement, section, text, href) {$/;"	f
 createSectionCard	docs/site_libs/quarto-search/quarto-search.js	/^function createSectionCard(createElement, section, text, href) {$/;"	f
-crossref-apx-prefix	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-ch-prefix	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-cnj-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-cor-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-def-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-eq-prefix	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-exm-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-exr-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-fig-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-lem-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-lof-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-lol-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-lot-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-lst-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-prp-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-sec-prefix	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-tbl-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-crossref-thm-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-css	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a	object:formats.html.pandoc
 csvabc	data-raw/datawasmcsv.R	/^csvabc <- c("abc_out.data", "biler.gdt", "elbiler.csv", "luftkvalitet.csv", "pizza.csv", "toyota/;"	c
 ct	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 ct	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
@@ -13193,8 +13141,6 @@ d	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof 
 d	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	f	function:anonymousFunction6507d5d30200
 d	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
 d	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t
-daemon	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	z	object:formats.html.execute
-daemon-restart	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 dark	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 dashboardOffset	docs/site_libs/quarto-nav/quarto-nav.js	/^  function dashboardOffset() {$/;"	f	function:anonymousFunction7a70b4600300
 data	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:We.anonymousFunction3a6c52dd6f00.h.setOptions.anonymousFunction3a6c52dd7500.anonymousObject3a6c52dd7705
@@ -13252,7 +13198,6 @@ de	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof ex
 de	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 de	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
 de	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f
-debug	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 debug	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectdd886cb411905
 debug	_site/site_libs/quarto-search/quarto-search.js	/^    debug: false,$/;"	p	variable:anonymousFunctionb356258d0100.anonymousObjectb356258d0305
 debug	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300._e.anonymousObjectf0594d69b105
@@ -13261,7 +13206,6 @@ default	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==ty
 default	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	class:anonymousFunction95d3f8f50300.x.U
 default	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	function:anonymousFunction56b5c5320200.P.ke.ei
 default	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	class:anonymousFunction50ddf4aa0300.O.X
-default-image-extension	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.pandoc
 defaultActiveItemId	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectdd886cb411905
 defaultActiveItemId	_site/site_libs/quarto-search/quarto-search.js	/^    defaultActiveItemId: 0,$/;"	p	variable:anonymousFunctionb356258d0100.anonymousObjectb356258d0305
 defaultActiveItemId	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300._e.anonymousObjectf0594d69b105
@@ -13343,7 +13287,6 @@ details[show]	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/
 details[show]	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 detectOverflow	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd8d05
 detectOverflow	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5328f05
-df-print	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.execute
 dfo	data-raw/datawasmcsv.R	/^  dfo <- fredr::fredr_series_observations(idp) %>%$/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
 di	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f
 direction	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd0d05
@@ -13361,7 +13304,6 @@ display	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==ty
 display	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd8f05
 display	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5329105
 display	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5329205
-display-name	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.identifier
 dispose	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction3a6c52dd0200.B
 dispose	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction56b5c5320200.P.W
 dispose	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction56b5c5320200.P.st
@@ -13714,7 +13656,6 @@ e	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use st
 e	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v
 e.modifiersData	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p
 e.modifiersData	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p
-echo	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 ee	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction3a6c52dd0200.Qt
 ee	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	function:anonymousFunction95d3f8f50300.x
 ee	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
@@ -13771,7 +13712,6 @@ en	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==
 enable	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f	variable:e
 enable	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f	variable:e
 enableWebRCodeCell	_extensions/coatless/webr/webr.lua	/^function enableWebRCodeCell(el)$/;"	f
-enabled	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	z	object:formats.html.execute
 enabled	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Ft
 enabled	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Le.anonymousObject3a6c52dd4b05
 enabled	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Qt.le
@@ -13824,7 +13764,6 @@ end	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof 
 end	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction50ddf4aa0300.O.ce
 endCallback	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.it
 endCallback	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.nt
-engine	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.execute
 ensureWebRSetup	_extensions/coatless/webr/webr.lua	/^function ensureWebRSetup()$/;"	f
 enterKeyHint	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectdd886cb4af05
 enterKeyHint	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300._e.anonymousObjectf0594d69b105
@@ -13888,11 +13827,7 @@ environment	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"o
 environment	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.E.anonymousObjectf0594d6929105.anonymousObjectf0594d6929205
 environment	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.anonymousFunctionf0594d6927c00.anonymousFunctionf0594d6927d00.anonymousObjectf0594d6928505
 environment	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.anonymousFunctionf0594d6928f00.anonymousObjectf0594d6929005
-environment-proof-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-environment-remark-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-environment-solution-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 er	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
-error	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 errors	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction067a2e733b00.y.anonymousObject067a2e733e05
 errors	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction067a2e733b00.y.anonymousObject067a2e733f05
 errors	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction067a2e733b00.y.anonymousObject067a2e734005
@@ -13904,7 +13839,6 @@ escapeRegExp	_site/site_libs/quarto-search/quarto-search.js	/^function escapeReg
 escapeRegExp	docs/site_libs/quarto-search/quarto-search.js	/^function escapeRegExp(string) {$/;"	f
 et	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 et	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
-eval	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 event	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectdd886cb4af05.onChange.anonymousObjectdd886cb4b005
 event	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectdd886cb4af05.onKeyDown.anonymousFunctiondd886cb4b100.anonymousObjectdd886cb4ba05
 event	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectdd886cb4af05.onKeyDown.anonymousFunctiondd886cb4b100.anonymousObjectdd886cb4bc05
@@ -13951,7 +13885,6 @@ eventType	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"
 eventType	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject4af95ea9a505
 eventType	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3e4105
 eventType	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3ea505
-execute	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:formats.html
 execute	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41d900.anonymousFunctiondd886cb41de00.anonymousFunctiondd886cb41df00.anonymousObjectdd886cb41e005
 execute	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ee.anonymousFunctiondd886cb45f00.c
 execute	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300.Te.anonymousFunctionf0594d69e400.l
@@ -13974,7 +13907,6 @@ expectedLocation	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=fun
 expectedLocation	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunctionc1842a283b00.y.anonymousObjectc1842a284005
 exports	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	class:t
 exports	docs/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	class:t
-extensions	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:formats.html
 extraClass	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a305.anonymousObject56b5c532b905
 extraClass	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a305.anonymousObject56b5c532ba05
 extraClass	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532c305
@@ -14029,14 +13961,6 @@ fieldset	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fon
 fieldset	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 fieldset:disabled .btn	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 fieldset:disabled .btn	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
-fig-align	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.render
-fig-dpi	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	n	object:formats.html.execute
-fig-env	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	z	object:formats.html.render
-fig-format	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.execute
-fig-height	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	n	object:formats.html.execute
-fig-pos	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	z	object:formats.html.render
-fig-responsive	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.metadata
-fig-width	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	n	object:formats.html.execute
 figcaption	_site/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	s
 figcaption	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-blac/;"	s
 figure	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -14055,8 +13979,6 @@ figure>p:empty	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\
 figure>p:empty	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 figure>p:first-child	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 figure>p:first-child	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-filters	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a	object:formats.html.pandoc
-filters	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a	object:markdown.yaml
 findAllMatches	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	property:anonymousFunction067a2e734100.te.e.options
 findAllMatches	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction067a2e733600.e.anonymousObject067a2e733705
 findAllMatches	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction067a2e734100.G.n.anonymousObject067a2e736405
@@ -14170,11 +14092,8 @@ form	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"=
 form	docs/site_libs/quarto-search/quarto-search.js	/^      form: "d-flex",$/;"	p	property:anonymousFunctione10aba620100.anonymousObjecte10aba620305.classNames
 formElement	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb423000.anonymousObjectdd886cb423105
 formElement	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:yn.anonymousFunctionf0594d692ba00.anonymousObjectf0594d692bb05
-format-resources	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a	object:formats.html.render
-formats	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o
 fr	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
 fred_ts	data-raw/datawasmcsv.R	/^fred_ts <- list(tsid=tsquery,tsdf=all_mb2)$/;"	L
-freeze	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 freeze	_site/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 freeze	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 frekh	data-raw/datawasmcsv.R	/^  frekh <- list("A"="year","M"="month","B"="day")[[fre]]$/;"	L	function:nbjson
@@ -14427,7 +14346,6 @@ header.headroom--unpinned	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@impo
 headerOffset	_site/site_libs/quarto-nav/quarto-nav.js	/^  function headerOffset() {$/;"	f	function:anonymousFunction6541db4b0200
 headerOffset	docs/site_libs/quarto-nav/quarto-nav.js	/^  function headerOffset() {$/;"	f	function:anonymousFunction7a70b4600300
 headers	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d693005
-headingText	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:markdown
 headroomChanged	_site/site_libs/quarto-nav/quarto-nav.js	/^const headroomChanged = new CustomEvent("quarto-hrChanged", {$/;"	C
 headroomChanged	docs/site_libs/quarto-nav/quarto-nav.js	/^const headroomChanged = new CustomEvent("quarto-hrChanged", {$/;"	C
 height	_site/site_libs/quarto-html/quarto.js	/^        height: marginChild.getBoundingClientRect().height,$/;"	p	variable:anonymousObject450571c90305
@@ -14503,7 +14421,6 @@ href	docs/site_libs/quarto-search/quarto-search.js	/^                  { href: "
 href	docs/site_libs/quarto-search/quarto-search.js	/^      href: offsetURL(href),$/;"	p	variable:createDocumentCard.anonymousObjecte10aba623005
 href	docs/site_libs/quarto-search/quarto-search.js	/^      href: offsetURL(href),$/;"	p	variable:createSection.anonymousObjecte10aba623805
 ht	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-html	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:formats
 html	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52ddb205
 html	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52ddb405
 html	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41ee00.C.anonymousFunctiondd886cb421300.anonymousObjectdd886cb422b05
@@ -14580,7 +14497,6 @@ id	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==t
 id	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300.ft.anonymousFunctionf0594d6914e00.anonymousObjectf0594d6914f05
 id	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300.ft.anonymousObjectf0594d6913405
 id	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.anonymousFunctionf0594d6927c00.anonymousFunctionf0594d6927d00.anonymousObjectf0594d6928505
-identifier	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:formats.html
 idp	data-raw/datawasmcsv.R	/^  idp <- tsquery[[x]][[y]]$/;"	v	function:anonFuncc2e7dfa30100.anonFuncc2e7dfa30200
 idx	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject067a2e738e05
 idx	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject067a2e739505
@@ -14648,7 +14564,6 @@ img.img-fluid.column-screen-right	_site/site_libs/bootstrap/bootstrap.min.css	/^
 img.img-fluid.column-screen-right	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-blac/;"	c
 inHiddenRegion	_site/site_libs/quarto-html/quarto.js	/^  const inHiddenRegion = (top, bottom, hiddenRegions) => {$/;"	f	function:anonymousFunction450571c90400
 inHiddenRegion	docs/site_libs/quarto-html/quarto.js	/^  const inHiddenRegion = (top, bottom, hiddenRegions) => {$/;"	f	function:anonymousFunctiona143dafe0200
-include	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 includeMatches	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	property:anonymousFunction067a2e734100.te.e.options
 includeMatches	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction067a2e733600.e.anonymousObject067a2e733705
 includeMatches	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction067a2e734100.G.n.anonymousObject067a2e736405
@@ -14689,7 +14604,6 @@ initialState	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"
 initialState	docs/site_libs/quarto-search/quarto-search.js	/^    initialState: {$/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305
 initializationTemplateFile	_extensions/coatless/webr/webr.lua	/^function initializationTemplateFile()$/;"	f
 initializationWebR	_extensions/coatless/webr/webr.lua	/^function initializationWebR()$/;"	f
-inline-includes	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
 inlinePositioning	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject4af95ea91005
 inlinePositioning	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e1005
 input	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -14760,9 +14674,6 @@ interval	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==t
 interval	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Y
 interval	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.Ct
 interval	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.Ot
-ipynb	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	z	object:formats.html.execute
-ipynb-filters	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a	object:formats.html.execute
-ipynb-shell-interactivity	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	z	object:formats.html.execute
 ir	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
 isAnimated	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd9905
 isAnimated	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd9a05
@@ -15044,12 +14955,6 @@ ke	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof 
 ke	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 ke	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction56b5c5320200.P
 ke	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
-keep-hidden	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-keep-ipynb	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
-keep-md	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
-keep-source	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-keep-tex	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-keep-typ	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
 key	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd9005.anonymousObject3a6c52dd9505
 key	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction4a048e410200.n.686.b.anonymousObject4a048e411005
 key	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction4a048e410200.n.686.b.anonymousObject4a048e411105
@@ -15261,8 +15166,6 @@ label	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object
 label	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 label	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d6920305
 label	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:yn.bn.mr
-lang	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.metadata
-language	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:formats.html
 lastBottom	_site/site_libs/quarto-html/quarto.js	/^        lastBottom,$/;"	p	variable:anonymousObject450571c90205
 lastBottom	_site/site_libs/quarto-html/quarto.js	/^  let lastBottom = 0;$/;"	v
 lastBottom	docs/site_libs/quarto-html/quarto.js	/^  let lastBottom = 0;$/;"	v
@@ -15270,18 +15173,6 @@ lastQuery	_site/site_libs/quarto-search/quarto-search.js	/^let lastQuery = null;
 lastQuery	docs/site_libs/quarto-search/quarto-search.js	/^let lastQuery = null;$/;"	v
 later	_site/site_libs/quarto-nav/quarto-nav.js	/^      const later = function () {$/;"	f	function:anonymousFunction6541db4b0200.throttle.anonymousFunction6541db4b0400
 later	docs/site_libs/quarto-nav/quarto-nav.js	/^      const later = function () {$/;"	f	function:anonymousFunction7a70b4600300.throttle.anonymousFunction7a70b4600500
-latex-auto-install	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-latex-auto-mk	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-latex-clean	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-latex-input-paths	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a	object:formats.html.render
-latex-makeindex	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.render
-latex-makeindex-opts	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a	object:formats.html.render
-latex-max-runs	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	n	object:formats.html.render
-latex-min-runs	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	n	object:formats.html.render
-latex-output-dir	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	z	object:formats.html.render
-latex-tlmgr-opts	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a	object:formats.html.render
-launch-binder-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-launch-dev-container-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 layoutMarginEls	_site/site_libs/quarto-html/quarto.js	/^const layoutMarginEls = () => {$/;"	f
 layoutMarginEls	docs/site_libs/quarto-html/quarto.js	/^const layoutMarginEls = () => {$/;"	f
 le	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	class:anonymousFunction3a6c52dd0200.Qt
@@ -15336,32 +15227,10 @@ li pre code:not(.sourceCode)	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.an
 light	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 limit	_site/site_libs/quarto-search/quarto-search.js	/^                limit: limit,$/;"	p	variable:anonymousFunctionb356258d0100.anonymousObjectb356258d0305.getSources.fuseSearchOptions
 limit	docs/site_libs/quarto-search/quarto-search.js	/^                limit: limit,$/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305.getSources.fuseSearchOptions
-link-external-icon	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-link-external-newwindow	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
 list	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 list	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb41d505
 list	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 list	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:yn.bn.mr
-listing-page-category-all	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-author	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-categories	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-date	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-description	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-filemodified	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-filename	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-readingtime	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-subtitle	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-field-wordcount	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-minutes-compact	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-no-matches	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-order-by	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-order-by-date-asc	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-order-by-date-desc	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-order-by-default	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-order-by-number-asc	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-order-by-number-desc	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-listing-page-words	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 ln	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 loadingIndicator	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb418605
 loadingIndicator	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb41d505
@@ -15430,7 +15299,6 @@ manageSidebarVisiblity	_site/site_libs/quarto-html/quarto.js	/^  const manageSid
 manageSidebarVisiblity	docs/site_libs/quarto-html/quarto.js	/^  const manageSidebarVisiblity = (el, placeholderDescriptor) => {$/;"	f	function:anonymousFunctiona143dafe0200
 manageTransition	_site/site_libs/quarto-html/quarto.js	/^      const manageTransition = (id, slow) => {$/;"	f
 manageTransition	docs/site_libs/quarto-html/quarto.js	/^      const manageTransition = (id, slow) => {$/;"	f
-manuscript-meca-bundle	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 margin	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousFunction3a6c52dd0200.Ft.effect.i.popper
 margin	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	property:anonymousFunction95d3f8f50300.x.re.effect.n.popper
 margin	_site/site_libs/quarto-html/quarto.js	/^        const margin = lastBottom - top;$/;"	C
@@ -15450,8 +15318,6 @@ mark	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.g
 mark	_site/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	s
 mark	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 mark	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-blac/;"	s
-markdown	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o
-markdown	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:markdown
 matches	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject067a2e738e05
 matches	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject067a2e739505
 matches	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject067a2e739805
@@ -15473,8 +15339,6 @@ me	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==
 me	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction56b5c5320200.P
 me	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 me	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
-merge-includes	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-metadata	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:formats.html
 metadata	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb414705
 metadata	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d691c305
 method	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dde005
@@ -15521,7 +15385,6 @@ moveTransition	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"ob
 moveTransition	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e0f05
 mr	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	function:yn.bn
 mt	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-multiFile	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.extensions.book
 n	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction3a6c52dd0200.N
 n	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	function:anonymousFunction3a6c52dd0200
 n	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	method:anonymousFunction3a6c52dd0200.st.pause
@@ -15784,10 +15647,6 @@ notTop	_site/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typ
 notTop	_site/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	p	property:s.options.classes
 notTop	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 notTop	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	p	property:s.options.classes
-notebook-links	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-notebook-preview-back	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-notebook-preview-download	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-notebook-preview-download-src	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 nr	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
 nt	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 nt	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	class:anonymousFunction56b5c5320200.P
@@ -16086,14 +15945,9 @@ orderedModifiers	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"obj
 orderedModifiers	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction50ddf4aa0300.O.Z.anonymousFunction50ddf4aa1c00.f
 ot	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	M	class:anonymousFunction3a6c52dd0200.st
 ot	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-other-links-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 outl	data-raw/datawasmcsv.R	/^outl <- lapply(olv, function(x){$/;"	g
-output	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 output	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 output	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-output-divs	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-output-ext	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.render
-output-file	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.pandoc
 outputTemplateFile	_extensions/coatless/webr/webr.lua	/^function outputTemplateFile()$/;"	f
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(HousePrice,overwrite=TRUE)$/;"	g
 overwrite	data-raw/datawasmcsv.R	/^usethis::use_data(abc, overwrite = TRUE)$/;"	g
@@ -16155,7 +16009,6 @@ padding	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==type
 padding	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:anonymousObject9f68ba3e4f05.options
 padding	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:me.be.Ce.anonymousObject9f68ba3e4a05.options
 padding	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:me.be.Ce.anonymousObject9f68ba3e4b05.options
-pandoc	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:formats.html
 panel	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb418605
 panel	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb41d505
 panel	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d6920305
@@ -16327,7 +16180,6 @@ placement	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"=
 placement	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3e5105
 placements	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd8d05
 placements	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5328f05
-plotly-connected	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 plugins	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject4af95ea90f05
 plugins	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:_.$
 plugins	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject4af95ea91a05
@@ -16468,8 +16320,6 @@ pre>code.sourceCode	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"ht
 pre>code.sourceCode	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 pre>code.sourceCode>span>a:first-child::before	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 pre>code.sourceCode>span>a:first-child::before	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
-prefer-html	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
-preserve-yaml	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
 prev	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction3a6c52dd0200.st
 prev	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction56b5c5320200.P.xt
 prevSiblingIsActiveLink	_site/site_libs/quarto-html/quarto.js	/^  const prevSiblingIsActiveLink = (el) => {$/;"	f	function:anonymousFunction450571c90400
@@ -16483,7 +16333,6 @@ preventOverflow	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"obje
 preventScroll	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532df05.anonymousObject56b5c532e405
 progress	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 progress	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-projectFormats	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	a
 propGetters	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41ee00.C.t
 propGetters	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41ee00.anonymousFunctiondd886cb420700.anonymousObjectdd886cb420805
 propGetters	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.D.t
@@ -16566,7 +16415,6 @@ quarto-search-results	_site/index.html	/^<div id="quarto-search-results"><\/div>
 quarto-search-results	docs/index.html	/^<div id="quarto-search-results"><\/div>$/;"	I
 quarto-text-highlighting-styles	_site/index.html	/^<link href="site_libs\/quarto-html\/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-/;"	I
 quarto-text-highlighting-styles	docs/index.html	/^<link href="site_libs\/quarto-html\/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-/;"	I
-quarto-version	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.metadata
 quartoOpenSearch	_site/site_libs/quarto-search/quarto-search.js	/^  window.quartoOpenSearch = () => {$/;"	f	variable:window
 quartoOpenSearch	docs/site_libs/quarto-search/quarto-search.js	/^  window.quartoOpenSearch = () => {$/;"	f	variable:window
 quartoToggleHeadroom	_site/site_libs/quarto-nav/quarto-nav.js	/^    window.quartoToggleHeadroom = function () {$/;"	f	variable:window
@@ -16778,8 +16626,6 @@ refresh	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"objec
 refresh	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:u.anonymousObjectf0594d691b705
 refresh	docs/site_libs/quarto-search/quarto-search.js	/^            refresh,$/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305.getSources
 refresh	docs/site_libs/quarto-search/quarto-search.js	/^    getSources({ state, setContext, setActiveItemId, refresh }) {$/;"	M	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305
-related-formats-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-related-notebooks-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 relatedTarget	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd0d05
 relatedTarget	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd0e05
 relatedTarget	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd9005.s
@@ -16817,7 +16663,6 @@ removeClass	_site/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"
 removeClass	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 removeDataAttribute	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	variable:anonymousFunction3a6c52dd0200.U
 removeDataAttribute	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	variable:anonymousFunction56b5c5320200.P.F
-render	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:formats.html
 render	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject4af95ea90f05
 render	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject4af95ea98205
 render	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	m	variable:anonymousObjectdd886cb41d705
@@ -16828,9 +16673,6 @@ renderItem	_site/site_libs/quarto-search/quarto-search.js	/^function renderItem(
 renderItem	docs/site_libs/quarto-search/quarto-search.js	/^function renderItem($/;"	f
 renderer	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41ee00.C.t
 renderer	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:e.autocomplete.D.t
-repo-action-links-edit	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-repo-action-links-issue	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-repo-action-links-source	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 requesterId	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41d900.anonymousFunctiondd886cb41de00.anonymousFunctiondd886cb41df00.anonymousObjectdd886cb41e005
 requesterId	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ee.anonymousFunctiondd886cb45f00.c
 requesterId	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300.Te.anonymousFunctionf0594d69e400.l
@@ -17047,17 +16889,6 @@ se	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof
 se	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
 search	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 search	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-search-clear-button-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-copy-link-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-detached-cancel-button-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-hide-matches-text	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-label	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-matching-documents-text	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-more-match-text	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-more-matches-text	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-no-results-text	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-submit-button-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-search-text-placeholder	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 searchClient	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41d900.n.anonymousObjectdd886cb41da05
 searchClient	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ee.anonymousFunctiondd886cb45f00.c
 searchClient	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ee.anonymousFunctiondd886cb46100.anonymousObjectdd886cb46205
@@ -17072,13 +16903,6 @@ searcher	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){
 searcher	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a289d05
 section	_site/search.json	/^    "section": "",$/;"	s	object:0
 section	docs/search.json	/^    "section": "",$/;"	s	object:0
-section-title-abstract	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-section-title-appendices	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-section-title-citation	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-section-title-copyright	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-section-title-footnotes	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-section-title-references	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-section-title-reuse	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 sectionChanged	_site/site_libs/quarto-html/quarto.js	/^const sectionChanged = new CustomEvent("quarto-sectionChanged", {$/;"	C
 sectionChanged	docs/site_libs/quarto-html/quarto.js	/^const sectionChanged = new CustomEvent("quarto-sectionChanged", {$/;"	C
 sections	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41ee00.C.anonymousFunctiondd886cb421300.anonymousObjectdd886cb422905
@@ -17103,7 +16927,6 @@ selectors	_site/site_libs/quarto-html/quarto.js	/^    const selectors = selector
 selectors	docs/site_libs/quarto-html/quarto.js	/^    const selectors = selectorsToSync[group];$/;"	C
 selectorsToSync	_site/site_libs/quarto-html/quarto.js	/^  const selectorsToSync = setupSelectorSync();$/;"	C
 selectorsToSync	docs/site_libs/quarto-html/quarto.js	/^  const selectorsToSync = setupSelectorSync();$/;"	C
-self-contained-math	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.render
 set	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	variable:anonymousFunction3a6c52dd0200.H
 set	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	variable:anonymousFunction56b5c5320200.e
 setActiveItemId	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctiondd886cb41ee00.S
@@ -17224,7 +17047,6 @@ source	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object
 source	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d692ae05
 source	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d69f005
 source	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:yn.bn.mr
-source-notebooks-prefix	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 sourceFooter	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb41d505
 sourceFooter	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:yn.bn.mr
 sourceHeader	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectdd886cb41d505
@@ -17245,14 +17067,12 @@ spellCheck	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"ob
 sr	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn
 src	_site/site_libs/quarto-search/quarto-search.js	/^                  src: offsetURL($/;"	p	variable:anonymousFunctionb356258d0100.anonymousObjectb356258d0305.getSources.anonymousObjectb356258d1805
 src	docs/site_libs/quarto-search/quarto-search.js	/^                  src: offsetURL($/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305.getSources.anonymousObjecte10aba621805
-srcMarkdownNoYaml	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:markdown
 st	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c	function:anonymousFunction3a6c52dd0200
 st	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	class:At
 st	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c	class:anonymousFunction56b5c5320200.P
 st	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
 stallThreshold	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectdd886cb411905
 stallThreshold	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300._e.anonymousObjectf0594d69b105
-standalone	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.pandoc
 start	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Qt._e
 start	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd8d05
 start	_site/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction95d3f8f50300.x.se
@@ -17576,8 +17396,6 @@ target	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==type
 target	docs/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction664e00960200.n.686.b.anonymousObject664e00961705.value.anonymousObject664e00961805
 target	docs/site_libs/quarto-search/quarto-search.js	/^                    target,$/;"	p	variable:anonymousObjecte10aba620805
 target	docs/site_libs/quarto-search/quarto-search.js	/^                    target,$/;"	p	variable:anonymousObjecte10aba620905
-target-format	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.identifier
-tbl-colwidths	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.render
 tbody	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 tbody	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 td	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -17630,7 +17448,6 @@ th	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.goo
 th	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 thead	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 thead	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-theme	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.metadata
 theme	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject4af95ea91105
 theme	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e1105
 threshold	_site/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	property:anonymousFunction067a2e734100.te.e.options
@@ -17651,9 +17468,6 @@ throttle	docs/site_libs/quarto-html/quarto.js	/^function throttle(func, wait) {$
 throttle	docs/site_libs/quarto-nav/quarto-nav.js	/^  function throttle(func, wait) {$/;"	f	function:anonymousFunction7a70b4600300
 throttle	docs/site_libs/quarto-search/quarto-search.js	/^  function throttle(func, wait) {$/;"	f	function:anonymousFunctione10aba620100
 ti	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	function:anonymousFunction56b5c5320200.P.ke
-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s
-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.metadata
-title	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:markdown.yaml
 title	_site/search.json	/^    "title": "abc",$/;"	s	object:0
 title	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52ddb205
 title	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52ddb405
@@ -17662,15 +17476,8 @@ title	docs/search.json	/^    "title": "abc",$/;"	s	object:0
 title	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a305.anonymousObject56b5c532c005
 title	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a305.anonymousObject56b5c532c105
 title	docs/site_libs/quarto-search/quarto-search.js	/^                    title: isExpanded$/;"	p	variable:anonymousObjecte10aba620805
-title-block-affiliation-plural	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-title-block-affiliation-single	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-title-block-author-plural	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-title-block-author-single	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 title-block-header	_site/index.html	/^<header id="title-block-header" class="quarto-title-block default">$/;"	I
 title-block-header	docs/index.html	/^<header id="title-block-header" class="quarto-title-block default">$/;"	I
-title-block-keywords	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-title-block-modified	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-title-block-published	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 titleSelector	_site/site_libs/quarto-html/quarto.js	/^      titleSelector: "#toc-title",$/;"	p	variable:anonymousFunction450571c90400.anonymousObject450571c90905
 titleSelector	_site/site_libs/quarto-html/quarto.js	/^    titleSelector: "#toc-title",$/;"	p	variable:anonymousFunction450571c90400.anonymousObject450571c90705
 titleSelector	_site/site_libs/quarto-html/quarto.js	/^    titleSelector: ".title",$/;"	p	variable:anonymousFunction450571c90400.anonymousObject450571c90805
@@ -17678,7 +17485,6 @@ titleSelector	docs/site_libs/quarto-html/quarto.js	/^      titleSelector: "#toc-
 titleSelector	docs/site_libs/quarto-html/quarto.js	/^    titleSelector: "#toc-title",$/;"	p	variable:anonymousFunctiona143dafe0200.anonymousObjecta143dafe0505
 titleSelector	docs/site_libs/quarto-html/quarto.js	/^    titleSelector: ".title",$/;"	p	variable:anonymousFunctiona143dafe0200.anonymousObjecta143dafe0605
 tn	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-to	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.pandoc
 to	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd0d05
 to	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject3a6c52dd0e05
 to	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction56b5c5320200.P.xt
@@ -17687,9 +17493,6 @@ toRegions	_site/site_libs/quarto-html/quarto.js	/^  function toRegions(els) {$/;
 toRegions	docs/site_libs/quarto-html/quarto.js	/^  function toRegions(els) {$/;"	f	function:anonymousFunctiona143dafe0200
 toString	_site/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:Date
 toString	docs/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:Date
-toc	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.pandoc
-toc-title-document	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-toc-title-website	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 toggle	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction3a6c52dd0200.st
 toggle	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction3a6c52dd0200.z
 toggle	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.st.at
@@ -17702,11 +17505,6 @@ toggle	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==type
 toggle	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.Ht
 toggle	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.Wt
 toggle	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5321405
-toggle-dark-mode	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-toggle-navigation	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-toggle-reader-mode	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-toggle-section	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-toggle-sidebar	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 toggleAll	_site/site_libs/quarto-html/quarto.js	/^  function toggleAll(selectedGroup, selectorsToSync) {$/;"	f
 toggleAll	docs/site_libs/quarto-html/quarto.js	/^  function toggleAll(selectedGroup, selectorsToSync) {$/;"	f
 toggleExpanded	_site/site_libs/quarto-search/quarto-search.js	/^function toggleExpanded(item, state, setContext, setActiveItemId, refresh) {$/;"	f
@@ -17719,8 +17517,6 @@ tolerance	_site/site_libs/quarto-nav/quarto-nav.js	/^      tolerance: 5,$/;"	p	v
 tolerance	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	p	property:s.options
 tolerance	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	p	variable:anonymousObject6507d5d31105
 tolerance	docs/site_libs/quarto-nav/quarto-nav.js	/^      tolerance: 5,$/;"	p	variable:anonymousFunction7a70b4600300.anonymousObject7a70b4600805
-tools-download	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
-tools-share	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.language
 top	_site/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 top	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousFunction3a6c52dd0200.Ft.effect.i.popper
 top	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:T
@@ -18184,7 +17980,6 @@ w	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==ty
 w	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t.k
 walk	_site/site_libs/quarto-html/quarto.js	/^  const walk = (el, depth) => {$/;"	f	function:anonymousFunction450571c90400
 walk	docs/site_libs/quarto-html/quarto.js	/^  const walk = (el, depth) => {$/;"	f	function:anonymousFunctiona143dafe0200
-warning	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	b	object:formats.html.execute
 we	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction3a6c52dd0200.Qt
 we	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f	function:me.be
 we	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
@@ -18201,7 +17996,6 @@ weight	docs/site_libs/quarto-search/quarto-search.js	/^    { name: "title", weig
 window	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300.G.anonymousFunctionf0594d695f00.anonymousObjectf0594d696005
 wn	_site/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 wn	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:yn.bn.hn
-wrap	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	s	object:formats.html.pandoc
 wrap	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.X
 wrap	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction3a6c52dd0200.Y
 wrap	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunction56b5c5320200.P.Ct
@@ -18342,7 +18136,6 @@ y	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==ty
 y	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:anonymousFunctionc1842a283b00
 y	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t
 y	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	method:anonymousFunctionc1842a283600.anonymousObjectc1842a283a05.value
-yaml	.quarto/idx/index.qmd.json	/^{"title":"abc","markdown":{"yaml":{"title":"abc","filters":["webr"]},"headingText":"Arg","contai/;"	o	object:markdown
 ye	_site/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunction3a6c52dd0200.Qt
 ye	_site/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f	function:me.be
 ye	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunction50ddf4aa0300.O.ue
