@@ -1,3 +1,17 @@
+googlesheets4::gs4_auth(email="jorn.halvorsen@gmail.com")
+url <- 'https://docs.google.com/spreadsheets/d/1RBtpzzrAY5OIzlgBSLfzGvJeHmMJxMC_cEl3rOXV4m8/edit?gid=1266997759#gid=1266997759'
+sht <- 'krypto'
+rng <- 'A1:F2532'
+krypto <- googlesheets4::read_sheet(url,sheet=sht,range=rng) 
+usethis::use_data(krypto,overwrite=T)
+#
+sht <- 'boers'
+rng <- 'A1:F1259'
+boers <- googlesheets4::read_sheet(url,sheet=sht,range=rng) 
+usethis::use_data(boers,overwrite=T)
+#############################################################
+
+
 library(homepageJIH)
 library(dplyr)
 data1 <- iris
